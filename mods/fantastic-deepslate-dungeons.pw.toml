@@ -1,0 +1,13 @@
+name = "Fantastic Deepslate Dungeons"
+filename = "deepdungeon-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8b7972af69c567d3e21661cd04134c41bf02961"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7253402
+project-id = 1064889

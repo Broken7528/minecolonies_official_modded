@@ -1,0 +1,13 @@
+name = "Vanilla Cookbook"
+filename = "VanillaCookbook-2.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5eade77a6d843d506b06773fc12b16ab75331cda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8094299
+project-id = 402659

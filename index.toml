@@ -1,0 +1,2446 @@
+hash-format = "sha256"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/fields/arboretum1.blueprint"
+hash = "9ae1f81d5d90dea10b5cc44861c66c4eaa558880cd155ef3c30c95abe1b02b51"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/fields/arboretum2.blueprint"
+hash = "46360100409dedb3d7cf4e50935b9870ac13e44ead482af081c8cf29fc2ae319"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/fields/arboretum3.blueprint"
+hash = "9c50dfe78bc139d0473df89c32cc60f7ea27029facd4f7ad9a50b705b2abab46"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/fields/cactus field.blueprint"
+hash = "83b2c931f8fc988cdf67ab33d213b1779ef582d57c6f9af3cfe899b70b78126e"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/fields/cropsfield1.blueprint"
+hash = "9454970a6d9f18af7dedd750b8536ab450723b0c310f41b7a6215a296c3473fd"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/fields/cropsfield2.blueprint"
+hash = "d614d1c17caf9cd8fb8fb0d014d331deb85ce72cd216544a38c3b6bd1a395b8e"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/fields/cropsfield3.blueprint"
+hash = "9460947684151cc4678dd4c3e041c6997f55d1c89f4b46e38dc400313b67588e"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/fields/jungle field.blueprint"
+hash = "53d61e51d29ec85118406c55ee12d8c9ac5ff62718c6f6b60b28dc74c234428b"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/fields/sea field.blueprint"
+hash = "08b4cad5c498f974489bb21650fe564f0c1c7a4b7680a109746fc9ad4d0ad4f0"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/fields/sugar field.blueprint"
+hash = "415957e994a80c65e408312babee01ded0e47b84de5fa8359e0b1f99163d731b"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/composter1.blueprint"
+hash = "ca843bb0017bedd32dde4caa3dfe1a1eb29b3a8508d0205e1a125d818c863c39"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/composter2.blueprint"
+hash = "380cf737f192931bb8cb8385c55ac8281658b09da3f1be6f7d6a436dd03a6b52"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/composter3.blueprint"
+hash = "570f49e5f854a18b8a3f9a14f3c78a63e6ddca6928015b8b2341752e4a870fd8"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/composter4.blueprint"
+hash = "128d2520648885f2b72c2db3027eca6175939e93d401212f15fe72f1ebabf7d1"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/composter5.blueprint"
+hash = "4e558ff0e165ff8dd678a3df2ec414260832cacb6d5266b5f7f2b44c34e1b474"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/farm1.blueprint"
+hash = "23049b2e5c7dd0065dffd049bec9d76a857a09daba396ebe681bd5933c7dd722"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/farm2.blueprint"
+hash = "5be2ea2f80c3e3bb159bdb1255fe1e71075479bf2904ce6da708e56257743f77"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/farm3.blueprint"
+hash = "cdfbbfa45ef94c55ef03a4985071a8572367272aa5bdc610e72b307fa97983be"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/farm4.blueprint"
+hash = "94ac10b0b1ebe641bfb000129d04be0cf7642c95a185f373faeb01b339285309"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/farm5.blueprint"
+hash = "ecdb4d4f39ba442204d626b1ff695a8d99b948ce6a05694a51c3a782420a9147"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/mudfarm1.blueprint"
+hash = "ffafe18ac86e517b8e1800100d02d2fd151e042beeadb0839b2d3d09d89f25ba"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/mudfarm2.blueprint"
+hash = "407daee1aa68726723eff2057aad82920e483fcf97c36353600c25d4ec8de5d7"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/mudfarm3.blueprint"
+hash = "c6c478caf377fb08ea6dea1bf919e01377b5b22e6690924e487c0e54e966fb6f"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/mudfarm4.blueprint"
+hash = "acdfc8c230474f47bf2c36cb39fe7f9c8d04187d236c56a61a24655038e87057"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/mudfarm5.blueprint"
+hash = "5fc95c9a287c2474ce8cc40b02623346c07e410308dccbb94aa3ed6d1bb515c9"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/plantation1.blueprint"
+hash = "66e658054b1fe0e442b2e798b31db33fdb6f333ec7e32e9afd7a23c5fc0f6636"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/plantation2.blueprint"
+hash = "7abc5d789f31d4cb623a6e57196f417d77ef36f8590984c731193e8c61cec75c"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/plantation3.blueprint"
+hash = "59d958aadf72a9b8ea4d1778c48729855083b6191271c27de2b826ec43351595"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/plantation4.blueprint"
+hash = "a5071430f83ace40e79ef91d99eef4c7e561c33ea95347db5ce1e3d8610e307a"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/horticulture/plantation5.blueprint"
+hash = "f4d2d97adfa5a7e19732abf57b62f5800c36f2e92031b87243229924839e721c"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/apiary1.blueprint"
+hash = "20b449db2425800293254bacccb7e1095c182d7d62bda033b84b1438d401a020"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/apiary2.blueprint"
+hash = "a4a1c0e8b10c0d4fd9bd82aa9e9547aa0b6fd03e7a09c2c65ed767292767f804"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/apiary3.blueprint"
+hash = "d93083bf42bd92c8ab5627f97e9f6eb341bad22c0eac60253f80217cb86b2d23"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/apiary4.blueprint"
+hash = "f16a819c58bf027c8e124e25568e5aac6023d4ed48f9d7b7679d4032a4394a11"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/apiary5.blueprint"
+hash = "13bb533a9cffc71fc4580480573f85057d5dd39960eddae6f19ba3465583f3a1"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/chickenfarmer1.blueprint"
+hash = "7d875b27be6918b0bfe09cd7f3072978b583eb0e5871d1da0a799bc53fb083f3"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/chickenfarmer2.blueprint"
+hash = "b84e4e5da40488e65a7c49af130ee038d5d2d708ca7e63b2d2f923b1164d091b"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/chickenfarmer3.blueprint"
+hash = "9f08f624f62ecd16acb002d4b7a5f131aee309e87dbaaec00dbfecbab86a9d26"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/chickenfarmer4.blueprint"
+hash = "2b369d203f4feb6645ad51ac006b59ba0e9755fc433f6092bc0d8b56f72e7968"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/chickenfarmer5.blueprint"
+hash = "91e98ace727d8388827ed8728acff636751059bcb74c3cecaba676ba3320c48f"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/cowboy1.blueprint"
+hash = "f539d7434be19e6b62ee6c54dfd2e9a24b5b893e2ac4b515cfb7563876a3d113"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/cowboy2.blueprint"
+hash = "27ccb548fe5e9e6f0e09ec1199ea4bb157e7ff608edc25142166cef8a8b24e63"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/cowboy3.blueprint"
+hash = "10c250a4b705cbbb62f55d12443e8dab894461395cd0ba1982c690f0fd25026b"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/cowboy4.blueprint"
+hash = "0971e5f615fc25f66bed500a1456ad7cd2e33c9bc8cfc72c8b0d53d21c44b722"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/cowboy5.blueprint"
+hash = "0134f24326e7aa7fbd83196b5cc67a6d61ce52bc5a41fcbec69afc4c7b6fb9fb"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/fisherman1.blueprint"
+hash = "effca1a6e4fcbfef12624a1115c6c96850057e14ebc7d88b2d85ecadd7d49504"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/fisherman2.blueprint"
+hash = "47ca716578ee36c761639a1e814cb3c3b084363330aabf4f8cce1fcfb6f03fd6"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/fisherman3.blueprint"
+hash = "ce98d7176585c616fb77e81b6b53b1e8eddb36ff44133c8fa9cfc41c767d2316"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/fisherman4.blueprint"
+hash = "1d426e74258fc9f11f4a92c114d4c4ecefa08a84fac4a4cc9a1cac68828e91f7"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/fisherman5.blueprint"
+hash = "d7f56e21afb792d5ea1648218134e9f7250ed13f43c45fbf532bc8cbacd137f1"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/rabbithutch1.blueprint"
+hash = "da0296f16dc8f6298c162646ae9b7e19753bb372855fcef76033a5be7803c2a0"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/rabbithutch2.blueprint"
+hash = "ca2488c38da7ee00b4d65faa88891ff7b7796fe3bdbf3bbcb4156fc028d7bef1"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/rabbithutch3.blueprint"
+hash = "bc76117f79c5135302b61daf36ddbba1824e8cb3cd7870e511493a76b05a6feb"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/rabbithutch4.blueprint"
+hash = "bac8d176ed60b11cf30f2bb932ced665097cec6ad795193a9c795081db43a90a"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/rabbithutch5.blueprint"
+hash = "8f29b8a5bf957b5d01e36d8ddad8a589f80e38f39ff3dd7f8a05abeb70c1926e"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/sheperd1.blueprint"
+hash = "0d2771ee4b3cb1c638ea2e59d7be0e46589e19b4553478a59b03fc76811141a4"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/sheperd2.blueprint"
+hash = "c2b6df9ff9212bebfd489a00ad978bba0aa01b886bef219fa6368981347c0066"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/sheperd3.blueprint"
+hash = "141b784e34ef3681c73b6281f67e58a52b21fec5b4f1adb976d739a131991fb3"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/sheperd4.blueprint"
+hash = "1a78d744b2c6f156c82d8c6f3f5e7949994d865437d284fd42eff73a5c04dc7e"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/sheperd5.blueprint"
+hash = "1d1ae8616a5d32f06fe5c18725c501db8f45b18b427352abc7b1fc79fa25e53e"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/swineherd1.blueprint"
+hash = "b07f32e73367298639f9190723558e6cc747605ba4debcfa7ce1f06abe8d288f"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/swineherd2.blueprint"
+hash = "0b4e372a7ca726ec030a218f9639933fd599aa1a0bc3a53e45a432ab9968846f"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/swineherd3.blueprint"
+hash = "da092fe5910213683391074a1283470f5145cf5e1c6920f97786e3380d1e9e9a"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/swineherd4.blueprint"
+hash = "7379965409ce2248ca398f71cd6eb2f35a0a966a1802726c057a945a40f64e14"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/husbandry/swineherd5.blueprint"
+hash = "f679669a336a41eb5dbd65fb4ce39e9ad543a720e5762e2be16fcb28482d8154"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/icon.png"
+hash = "ab7b1d28c9984ada211002948e9a289e7af67f4fb72d5f9fdfbe6e790b08a9f9"
+
+[[files]]
+file = "blueprints/Cliffs/agriculture/icon_disabled.png"
+hash = "e71b469beec24ee83caef230043963103e6f0168247071eb6343d047e6dd09de"
+
+[[files]]
+file = "blueprints/Cliffs/cliffs.png"
+hash = "fa516e327682c0d8e80ccf91d1bce6d17f14b1516f4c3fa35db5ae8776489c67"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/carpentry/fletcher1.blueprint"
+hash = "84ecb1a5b1041bea417ebb041d25cd89d34f8ce831e6ea1df5c5ef69c0028aa5"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/carpentry/fletcher2.blueprint"
+hash = "3a113da65cedffdb7f00291586dfc45fbd080849e444fc84cc0d13faec9d7a17"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/carpentry/fletcher3.blueprint"
+hash = "d609dbc314b977dc5205493f2b6326ec40bb36daafaa55e458011f41adff4208"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/carpentry/fletcher4.blueprint"
+hash = "81db59638b0fd34b6c295f86869f3810c8678240c83a0f5c00f79bc575134a53"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/carpentry/fletcher5.blueprint"
+hash = "5f297dc801d85d24695808028a282a9273682939bad814ee5e89f8218acb1480"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/carpentry/sawmill1.blueprint"
+hash = "a2a69ee5db5c97b8e9b24e61cd7c6bd9962d32196e34a42f0ff78eebe089c50d"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/carpentry/sawmill2.blueprint"
+hash = "6c88f757b245af630d16358a1a7aacdbaa929cc939869784bc78f0142d60246a"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/carpentry/sawmill3.blueprint"
+hash = "c68e270ae95f6fa7a18c628135debe5210ead053ffe645c9fe2a5b80610a9754"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/carpentry/sawmill4.blueprint"
+hash = "d7dc14d35f51ae1ae9ed6fd3ef36812f9ca91965a3c5bb9745f541012b4f2e68"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/carpentry/sawmill5.blueprint"
+hash = "315538a2dba71b939c772d95c0f006927894fb67f4164e7b02dbbf6d1340dc24"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/icon.png"
+hash = "0303512c2a9940213e08e1abe2f95bfbe5cf25a55970013f3994f6ceff324cae"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/icon_disabled.png"
+hash = "29998e55ae25ed0b6836642df7cf3fd9625e9de87ef5b986c14bbde56924a69d"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/alchemist1.blueprint"
+hash = "168ddb6957919c8b0768d1adde5a6a3d8b4fc8165895c0e86a2d3748e75679eb"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/alchemist2.blueprint"
+hash = "67506e7a67e14357d1b7018f3f7f9f1a3b5c251d8ace5d429d4f33644060cfcb"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/alchemist3.blueprint"
+hash = "b6f21f6147cab04007c0f367a0a88b41094997c4962dccd4ba97a298ab634466"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/alchemist4.blueprint"
+hash = "3e5e6f5de894307c292288e7a01eeb9f2268e690541adc9d01f4fe43b38746a3"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/alchemist5.blueprint"
+hash = "8facd7aabc7a09946930f17aff064e2c8cf0406a1ddfafc038d8d70acf25de6d"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/bakery1.blueprint"
+hash = "8c2c41adb3feca19c64c8daf4977f4459d5b144cd2ba4500f1ff7ad229c14893"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/bakery2.blueprint"
+hash = "eb20d0d8d18c22b3dd066ab9705ee7334e1354bed38ebafa7bf9145a7a871d93"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/bakery3.blueprint"
+hash = "5e5c886732808d45ec60f0a66a6803cf020c8690325754d0ba0c728b61ab4d84"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/bakery4.blueprint"
+hash = "7f7e8479e4ad85133ea8db1fe5ffa0f502938120caf69eb61d46e3be172d862a"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/bakery5.blueprint"
+hash = "150b86d2a5786f266c721170ed7aecdb0f128f93341751eb81506e50a7efb4a6"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/cookery1.blueprint"
+hash = "5392f6315a2e4a9ce10de36ae6622cf3d3e3b3cabfbfb3cbfa478869e40321e9"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/cookery2.blueprint"
+hash = "d98bf1fd4af351361a89e84abcaca74551d1f3ebd67149da21cc6d2cb254410b"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/cookery3.blueprint"
+hash = "af4c2e510393633ec40e275d030e912b3206a21a0f474f00030ab68798d1d47d"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/cookery4.blueprint"
+hash = "8f31148c5a802c80fb87067b3fe973bd39db458fca1b815a1f54d821089176b5"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/cookery5.blueprint"
+hash = "cf794dca49f478da5917323b766370ba0cf9a2bf40ed739d609668b1962fea91"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/dyer1.blueprint"
+hash = "f89a89be23d9f88aacf234322760ee313d92913983904112d2a584149c92fc61"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/dyer2.blueprint"
+hash = "c8358270aa0354dbd6d14fc2e166c0860e34aa3c890a0e8ff2ea0cde1b3cc09d"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/dyer3.blueprint"
+hash = "ee6badababb3fcb51342ea803f06660b6b60cd0f78e6510d8510c35e880fcc20"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/dyer4.blueprint"
+hash = "a6f8941820e6faae5147aca48a32bbd379e25402043459239d2014aafa7d64be"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/dyer5.blueprint"
+hash = "f656f967d2a1f246f2a954992104e8c97e68f2ba8f9e2f5a27f8cd40150f557f"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/flowershop1.blueprint"
+hash = "ec28eba48196db497783b95378bd2dc3718d35a6f10ed94565ff7acb6097e6e0"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/flowershop2.blueprint"
+hash = "7bac82eeb9c6cb428b5be4ea0814a721c23ff264500b79579dc0e65e0a0eca20"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/flowershop3.blueprint"
+hash = "22c221abe021456f8259776bb40477a0525f7d01e57c5e6a3f63322a8f9a7648"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/flowershop4.blueprint"
+hash = "2dc5aab19b29201d62bf7c72cb7325c7103179ca63e288df27321ade82084e2b"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/flowershop5.blueprint"
+hash = "53f39a3142b71dcb8bd2b11f1c93d9ea7413c68b4bec5c0cc63ee39d0c4073c6"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/glassblower1.blueprint"
+hash = "cc6f6c601895356a15c574827fc71747b59dcaa5b326cec64b4ea8595b7571f7"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/glassblower2.blueprint"
+hash = "1c8379754c49e491598c1267c7978ccdc7cf594c45987270e31f79f4b3b7067e"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/glassblower3.blueprint"
+hash = "05eaf194c1e18bbc5c2d35e7bf5b03ecce8a5ffdafe96d37af1619219b209541"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/glassblower4.blueprint"
+hash = "9eeb0a4ff96e751c75520e6b231795d9b0135fb817be9be3627e65c0020afbdd"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/luxury/glassblower5.blueprint"
+hash = "90d382099b2439c0a45a1b80133e6ee2bac7517512cb0115fa8c4de40f62b39a"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/concretemixer1.blueprint"
+hash = "770e01f4f89c3c948a5be35fadb5bfe6f62cf8d60807a5f0dfea9821de8c0220"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/concretemixer2.blueprint"
+hash = "3d6894a4213a1a01aed924b0b8416140aa8a17b6dace050c399b608e774cf5c4"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/concretemixer3.blueprint"
+hash = "a2bad96559ceaea7bcaf29b225c93231d61bc76530dd12aab66f5adeb4ab5cfa"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/concretemixer4.blueprint"
+hash = "8f0e52731f015ea48005ef878d4441307c838b82e3696db526b4c245653c7893"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/concretemixer5.blueprint"
+hash = "d7b682eb9a51b354448372b84382fbb12d733430c9a6b0d7d56d68652ddcfa70"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/crusher1.blueprint"
+hash = "dad22083e8c03d7afbbe4a6ccb856a3ea1feee558052ee30099010fa355d4d17"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/crusher2.blueprint"
+hash = "bfe31ad3fc98a727a95aca78f9d2bbcf6a87cc241db74eb0f6d7f3d02b9171ac"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/crusher3.blueprint"
+hash = "13d06a6d48a00d16685d2c0b86b6955d52cd76c9ea3ff64f04c679002ec940a3"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/crusher4.blueprint"
+hash = "01247c16a07062d78426225080c49284e98b10bbf370bfac219088c3aef99e9f"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/crusher5.blueprint"
+hash = "a6f0be7175bf14cb7b052f48b6d86cfe35f5363fb191cf28af77955f495cd3f0"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/sifter1.blueprint"
+hash = "56a11e2603c4c96116bf5ed4a45c45b03428d838b5d3e21fd1578dedcc1a3b9f"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/sifter2.blueprint"
+hash = "fc747d63dff54ba947d2f7fcf55382cb3d29772af1b4dd34a81808aab5d20883"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/sifter3.blueprint"
+hash = "ab93928cd6e828077eb3227cbfb30a568fa705a5f866bf33816f2468240a1229"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/sifter4.blueprint"
+hash = "40bcf5262d4427290e622eaadf036e1dd7cffcc2aa0e54172cea28ef04e16037"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/sifter5.blueprint"
+hash = "eea2c7c144b4064d80a890df74947aaae45a7425402f96fbafe6b66765653f4c"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/stonemason1.blueprint"
+hash = "8f4b546a28c3cfae0db705ea9e44e2600a1861d7d062f9dfb462881a099b940e"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/stonemason2.blueprint"
+hash = "7e40b2d166fadebfad3c3b15b6b0dc0c66f7ae4291a11007b89681adf4a30edd"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/stonemason3.blueprint"
+hash = "f15dccd52143587b9ecff0438ab4080b11d4b44cd3ef1534d0111057a1857348"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/stonemason4.blueprint"
+hash = "0949c37735612e4caf719de4ad37a32f56a7840db59dc9da1a1cac31d4308a8b"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/stonemason5.blueprint"
+hash = "f241a887db293a23e78f243044e71da5075e1c2e9c1c7c1dadfa73d6b6290ae8"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/stonesmelter1.blueprint"
+hash = "0e67f7a0f7f91f4d13872250e1944581df6b515e8875eafd7ac3e14c2e3545c9"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/stonesmelter2.blueprint"
+hash = "28c2c3764de7c93aa8f0b0f124c39631c19e3d9ebb8b303005aea794f483bcd4"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/stonesmelter3.blueprint"
+hash = "65816645d0fbb8a64588afbc6d9f7c1117ea84884722f219b466cc286de8ea4d"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/stonesmelter4.blueprint"
+hash = "aac3932e46e0c82013ff8c1b29df43841964d23a4997d68b871a2d359af45de4"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/masonry/stonesmelter5.blueprint"
+hash = "46551be25fc906a2b4de66f92c9822915e84cb3cf84a9bd935c1778372e95f4a"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/blacksmith1.blueprint"
+hash = "dbb7af6c82f108e810838ffb25246d601fae3a4d9640cf9010d7be29cc785d3e"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/blacksmith2.blueprint"
+hash = "15459421fa6d7339408afb98e80022825397ba833afb8b596a63fc29eec28611"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/blacksmith3.blueprint"
+hash = "7eba83e98b0de97316c052999f07a0a947552f1cc9245d0a26e898086306d23a"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/blacksmith4.blueprint"
+hash = "54bd6d5315c101276be10397830a9220e17efec911c4f8555f279c986f4f1281"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/blacksmith5.blueprint"
+hash = "ca9c2cd48cf09d545c71f85f3dc2756162488ee8506202437e0944cde434270d"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/mechanicshut1.blueprint"
+hash = "c6704bd9d87a09b6b5a471d8a4cca1ef817bff7fa120038a50045a0c93246009"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/mechanicshut2.blueprint"
+hash = "43f78a561d999671dde0ee00a438055c798b0a6766b49a48a40ba4fedaa497c4"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/mechanicshut3.blueprint"
+hash = "e3f60e387281c612fe55bf35b7bebadf10560e03b678410c2132f3da282c1086"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/mechanicshut4.blueprint"
+hash = "e2956b96b1753e7d01655fa03c6bc49bf839acdd2160e91eb690bc7e4dfab72a"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/mechanicshut5.blueprint"
+hash = "9d3123f5d90771cba28c058e152d686d1ccd7887caa9b737548dde9256c2dfcf"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/smeltery1.blueprint"
+hash = "68c7d421fb26f16fcee1b46e22a1fd9eac6a1555b1f1def6f18c7f0a5a9431a2"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/smeltery2.blueprint"
+hash = "ea1a42508a66a27a515ee6415189c9581a178c5ab8c9a18b7cbfe3a8df166079"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/smeltery3.blueprint"
+hash = "f09525ac8ee27f2cc1878dc2f0ed5cba17c654392f779ab0b7bb338172bd55ee"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/smeltery4.blueprint"
+hash = "1f58581df8d69b0c87d4dc7c029e4f0e08aed0e8323fb6cd8006b21569fdfe77"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/metallurgy/smeltery5.blueprint"
+hash = "442a0e421377bf5616f23583fc26a0e13cec04aed119cfb4f35fffd518d5207f"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon1.blueprint"
+hash = "189c4960ca93373104eb91d3bc49311a16a151fa22d3d835b933f6f5e2c5ce2f"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon2.blueprint"
+hash = "0deba4e57a2d49e6d620d7ba44045d03299c8c998117807564adb9fc47171c17"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon3.blueprint"
+hash = "df69c8bcaf4e766c73d78173f8b33cf2a2eac414f502183b6c2942f05b477190"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon4.blueprint"
+hash = "3956af56751d97898ad8735a37780a6bc04da1c505975462bb8af58a5fb60a6b"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon5.blueprint"
+hash = "84d3ad9ceb1461bb99cfbca4bf8aa5fa65bd59547c0b1dbe488a167331122174"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon_blue1.blueprint"
+hash = "52aee9da95ba759da7a6011caaae45221a0a1e1c9c854b6788f871690cf3cf43"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon_blue2.blueprint"
+hash = "9225c24d822a1143e1410c4906bde18249335a54358692e926f48fb19da21070"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon_blue3.blueprint"
+hash = "86eebb1c54c3aa6ed9747414bd36c890a83a0a6e40afa346b87b879aaa9abc65"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon_blue4.blueprint"
+hash = "ca9278f6d23c9c221b0686c9354a57013a6b09bfd519bd8666700fc2ab3fa5db"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon_blue5.blueprint"
+hash = "5a6eea29b4f1da163101834c907835c68cfbf14a18418914e420e0b2e85b551e"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon_green1.blueprint"
+hash = "e97d317eab3e6c1631e6c8fabe3f1aabba69fd6b557a530750c71daf0e9add3b"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon_green2.blueprint"
+hash = "ab991d562fb8ffc4a5508a8c06c7ca23424d25d93f7e6e079a60e8d5d7cb1741"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon_green3.blueprint"
+hash = "456eaa7b7342afdfaa3223ce75acb58739c8a31b68e5667094d8a05f8f05b324"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon_green4.blueprint"
+hash = "d02ce961bfe4939931e55ed3e30e1bf63c8d05c3bc01db310c61de3758776087"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/balloon_green5.blueprint"
+hash = "d2b601e693506d6e075870212b33b1d5584eab6ee52ee93ad5cec374c5df6eba"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/courier1.blueprint"
+hash = "0d59311660f6580db521fe875c391a513f43a71403a03f891885b98d75fcb503"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/courier2.blueprint"
+hash = "7316664d149a72ace61580caa96b09ab61ab30893df223a7e80de5eb6c0ee564"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/courier3.blueprint"
+hash = "2200a95f83e568fa002dd8d44ad925da618ea0e6b5347b715a7ed5624277799f"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/courier4.blueprint"
+hash = "38bfdaf6d56c6d519d039eaf11feefcb8a3776ac826708ea94c6d42a322305cb"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/courier5.blueprint"
+hash = "8cd6bebbdad7164c10ddceeed8d73e7f8d09274a870979001219c6e7c94f20cb"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/deliveryman_false1.blueprint"
+hash = "eba0200a9ea5951e74d201305e5e4b80ce5225625492458931b5b12e5c466af9"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/deliveryman_false2.blueprint"
+hash = "f780fcc99cd932ac23e90ead8081b2dc7e2ccd32c84764ba71cf089b8843098f"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/deliveryman_false3.blueprint"
+hash = "8585925cc6fb6bca7527fc0754474985931172c4eb81c226adba61849d1da9f0"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/deliveryman_false4.blueprint"
+hash = "7b3830818becf1fdd6ae3e0e49e18cee9a09cb06b46b862ac9d705b51bc8b489"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/deliveryman_false5.blueprint"
+hash = "98a1682d2210a844b848d11c2e18c6b4d78740971d4b450f88c77a1139eab08b"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/elevated1.blueprint"
+hash = "d0cae52c20662a9c6fae72ed277cd3b9636c7e1a2f84f693ebfc88a94c21c88a"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/elevated2.blueprint"
+hash = "818a44f9a1027262f07d2105e59951661dadd882d2df15e8c2a5a2874775319b"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/elevated3.blueprint"
+hash = "3eac118d8fd654ff475730d910f1172bcaa511793836d951f92e250e76b8c602"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/elevated4.blueprint"
+hash = "36253ec59f54d185cae39112ec2454be51230892d94b2049331310a710770a13"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/elevated5.blueprint"
+hash = "6b040da2fcacb38f5b50744bc6b34a072a5d83680a45eab88d5fc2ef284c9756"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/inner1.blueprint"
+hash = "5f17d374f5f1c026a24a8e8dc33145d897e3fe6d4288d3900d319605e6ecb59c"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/inner2.blueprint"
+hash = "f0aefb922562455d9ea1e4fa4251a358833e75adb38ec1a521be0b27f34ed80d"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/inner3.blueprint"
+hash = "5e8414a9672a0f6129ece15bb7b15781ddda7c7e2a64c1d788fdaac9129d6d0f"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/inner4.blueprint"
+hash = "65bcfb1c715ca720039a82965116090f2196077aca5fe7f0aa4f5f1a58e8823a"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/inner5.blueprint"
+hash = "90e706c91ea7018573b1794abf62d388c7d9a417a140d061a836e3b330d9bf54"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/outer1.blueprint"
+hash = "a20c4b415340189aab6176ccf8417d29c7943cc905018f50429be999231f04f5"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/outer2.blueprint"
+hash = "891926c218710a1c0c1007f01a5047b90e30223a39ed6c02d67daa87d4290b02"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/outer3.blueprint"
+hash = "e2789fd4c01322929838c35a645819d6bc31c9279eaa3d7bf2f7058522aef2ed"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/outer4.blueprint"
+hash = "c9828ef93608b58938bed1e409ad56e27c03e099d81312de33c5909a8c315f39"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/outer5.blueprint"
+hash = "815d38e7117adbe30d67fd614da2e0d6a1f26e3479bbbc271909da1746c0d516"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/warehouse1.blueprint"
+hash = "ed078252f19578b85ca469d867ec8768338fe10c802fa3f66586e969b7def0cd"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/warehouse2.blueprint"
+hash = "77255b04c1b4eb85d754e5a144139efee20a06854d21bb0671c290bafcaeb2ba"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/warehouse3.blueprint"
+hash = "e478d3eda286a911e08038e33254caa8156079d73e6e109dc1e8adab06bf7b32"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/warehouse4.blueprint"
+hash = "f3794ecefe314520c799d5f0eee867aa4957925c4496b0de1bd90ec584e67596"
+
+[[files]]
+file = "blueprints/Cliffs/craftsmanship/storage/warehouse5.blueprint"
+hash = "64b32c134fb97dde98698a520762830d3def8280c564d158353bfd6d00773e79"
+
+[[files]]
+file = "blueprints/Cliffs/decorations/icon.png"
+hash = "fa5d261a1c8e9a702e8280d89d85e091d5a3eff0fa8848f56a6a6c17b0b50f0c"
+
+[[files]]
+file = "blueprints/Cliffs/decorations/icon_disabled.png"
+hash = "638c06ff1ab7637232fd1d00a5bec21db6282c60bd63fde547b1dfa70f5fce8b"
+
+[[files]]
+file = "blueprints/Cliffs/decorations/supplies/supplycamp.blueprint"
+hash = "9d27110b0dadac9919659715972fec5ac0f7af8ac8bdee512944428c580b3157"
+
+[[files]]
+file = "blueprints/Cliffs/decorations/supplies/supplyship.blueprint"
+hash = "f9d170ead34de1ebd583c22557d6415f5b668ff09e7233a0387935c0eb2bd1d4"
+
+[[files]]
+file = "blueprints/Cliffs/education/icon.png"
+hash = "43ea5923eb4805bce90fbc9884f2c810c32e8fb82784d3dae9dbdb77c514bbd8"
+
+[[files]]
+file = "blueprints/Cliffs/education/icon_disabled.png"
+hash = "3cd98c7ae0a602ae05a6418a277fe100f8488e785174b1f28a450015fca6bdd5"
+
+[[files]]
+file = "blueprints/Cliffs/education/jellyfish_church1.blueprint"
+hash = "0b5baa620f7ecc84a9eb4fe40403eaadc640b625f1f49df9974fc901f82eff08"
+
+[[files]]
+file = "blueprints/Cliffs/education/jellyfish_church2.blueprint"
+hash = "282aa63c049617052b6cf5caf266ae9a476ad9ab12453ef8c8c1ac58db8ac1b1"
+
+[[files]]
+file = "blueprints/Cliffs/education/jellyfish_church3.blueprint"
+hash = "f6a9f94adf3bedabad0ca42c750757ea159ab239c76432813430b9290a14a05f"
+
+[[files]]
+file = "blueprints/Cliffs/education/jellyfish_church4.blueprint"
+hash = "1ce03b68bafb008e15bd9483030a093a0ff03a35500b35bf369a3a9955128697"
+
+[[files]]
+file = "blueprints/Cliffs/education/jellyfish_church5.blueprint"
+hash = "e91892761c7e43c7e66434c004ef2be433490151365b30ffd3a05c18345444ba"
+
+[[files]]
+file = "blueprints/Cliffs/education/school1.blueprint"
+hash = "4aecabd82745414c30e56b9f2438bed2c31824fdfe91d0ac933aaab6593b145d"
+
+[[files]]
+file = "blueprints/Cliffs/education/school2.blueprint"
+hash = "3e4ef079b1defde78a4f5f6f032a06a5339e8e5f613393e1bc1e9e6b6a636e3f"
+
+[[files]]
+file = "blueprints/Cliffs/education/school3.blueprint"
+hash = "77239b891b6a74a4175552fe91ce900134d187d8abc2ed03c5dc0c1e7a991b93"
+
+[[files]]
+file = "blueprints/Cliffs/education/school4.blueprint"
+hash = "e706e790877c626a948f7b03f0fd2ab4c94920a28b25b1b664cd6dfc2a1a6a80"
+
+[[files]]
+file = "blueprints/Cliffs/education/school5.blueprint"
+hash = "cfe0dc059d2924ae264b70c9180f28c5867df5598661b7954a0d737830ee70b5"
+
+[[files]]
+file = "blueprints/Cliffs/education/university1.blueprint"
+hash = "7b48da562b5924bfbd579d567539f3a558c5d4db5503667054301454335f354a"
+
+[[files]]
+file = "blueprints/Cliffs/education/university2.blueprint"
+hash = "4f8f84b25d18d615d532b9c643f8e686402a5e05be274b70c34425b0a9480d97"
+
+[[files]]
+file = "blueprints/Cliffs/education/university3.blueprint"
+hash = "ad77a227321fb3d791e0185c0bb2c64eaaf16644765841821839cf62dde3104b"
+
+[[files]]
+file = "blueprints/Cliffs/education/university4.blueprint"
+hash = "a907c6e8bdfd7d64a8051a211d5819fb23521ec3bde4cdbce25c41290665f77c"
+
+[[files]]
+file = "blueprints/Cliffs/education/university5.blueprint"
+hash = "58411f0d22be029a05532ba5c4875710d307910561811f5f4b1ff648caaf7bb7"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/MrKim1.blueprint"
+hash = "bdeabd89ec16a6d31c0fc69acaa3de0eed4bb7ca3c3ea72b35e62804f64c51db"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/MrKim2.blueprint"
+hash = "af19ffa5752ed4fb7b89a8c6c1d4a10ec86b793d41ca439f4820570be8792902"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/MrKim3.blueprint"
+hash = "78e6dcd4bc7befadb0a7b0630b5915aca891e3d79f6aa7a2e0dbfabee40f4557"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/MrKim4.blueprint"
+hash = "a84dc30721ca162e2dcfa801da2a197c526b9162f755ea068b88f902e7bd2c38"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/MrKim5.blueprint"
+hash = "29ea93b063cf719ff5b544674517beab42d9372ee6fa7e3f314623ed0580dbfd"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/balloon blue1.blueprint"
+hash = "cae9704999cd970f896be5c79bf6ec84510006d0ef311dfad352710f6345f60a"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/balloon blue2.blueprint"
+hash = "e1c1c675f5eff1212b59719b39c6c653b8d3a5b69826c6a4d26f20de53c7cd78"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/balloon blue3.blueprint"
+hash = "8ddb3b8c2c657015cc7610a3bb80842b13bf1a3a2abf01a0a9ecc02628fdd936"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/balloon blue4.blueprint"
+hash = "4e8618443a335847a4c415cef850a6e84dde7e09cefd42331f142892b77cc5c2"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/balloon blue5.blueprint"
+hash = "05e9593a40dfcd9b53e981c3de02bb9d5c0524264017f5e89407a29ca1544ac2"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/balloon purple1.blueprint"
+hash = "836f7f24093b31536316528c5fdf509bf0c787f044fca541af01f8421727f5a8"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/balloon purple2.blueprint"
+hash = "b705a32a0e265e921d785d7235e6226da4e4a533aed24a7cff7c87439cf81b80"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/balloon purple3.blueprint"
+hash = "51261be4534ff600d3303594fa2149ab769d797e8cf4e9de2707c55fe96feafd"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/balloon purple4.blueprint"
+hash = "6438fed646ffc076e3543303ccbbd2090645b9254c0a81a2dfb7564a2bd20b00"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/balloon purple5.blueprint"
+hash = "1e9c86f5956ab2281a2a0edd545518f9540c4a58d7f4045719aac9d348047a9c"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builder1.blueprint"
+hash = "6faade9abc19ad0f9e021af8bd2f8215f8fd8a5f94a3d15ffe803374667edca4"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builder2.blueprint"
+hash = "8d8935bc87fd678d3f6f403723b322de664ec1632567725aeb267a90896739cd"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builder3.blueprint"
+hash = "64f6ec3911d78100a6d91c3474ff7937277cdea9904659beb42d6dee63b70dd1"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builder4.blueprint"
+hash = "50f60a2b7cd616f0fd76f5848930bfea935b037b93875611d53df719c03d4da8"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builder5.blueprint"
+hash = "a49b69612711b8de37642df46942b42659a8eeb0453e7ac159dd632d7040eb6e"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builderballoon1.blueprint"
+hash = "512eeaf11c2023829ca1dfa2ee84cfaf29ed9b928bd5806e33233fdae1051782"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builderballoon2.blueprint"
+hash = "7ae4e02f75da516381949515e751b87bfbf78bb6fddb2808f7605490579cef05"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builderballoon3.blueprint"
+hash = "65f31ce49980e237c91ea15bee3846f9673d9322bb68e9c646507be96e8a619b"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builderballoon4.blueprint"
+hash = "5224e0e959dd3ea974ccbebbd3045311813d63777d5835a1de3ae8ad926cbe55"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builderballoon5.blueprint"
+hash = "23ac0ca309eda85fa4b817a9d5ffbbd8e0ea6aa2f25ac4159f75b72a0b2f93f7"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builderblue1.blueprint"
+hash = "ddb92f24dbf0bcb36c36f5ded25071a02b84f6455007ed5babd0c1d8e0e379d9"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builderblue2.blueprint"
+hash = "0e6efe89373968ff32482d03bf6750818057ad6d2d38b2439921205efa9800eb"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builderblue3.blueprint"
+hash = "7948a7193fcae003516ed88ba70b5015af5cf95ece6d3e2002232ac5eb504d35"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builderblue4.blueprint"
+hash = "ac58fb3d6242c389e9e4c0dd628f5bcac3c19a4cdb36464e597e34b15980195e"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/builderblue5.blueprint"
+hash = "444658800482065eef36d2fcbabb2ebe33fdec28dbddafc77ad6dde5a848783c"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/elevated1.blueprint"
+hash = "12e50437ed74d594625a3d601e9033932eed377dc44f0342fa8abb6b0b3d8b23"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/elevated2.blueprint"
+hash = "98c5a2b8da3d8fcd81051370728fff641f3f2034922a8ba3c409c274c9f96325"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/elevated3.blueprint"
+hash = "eea69177f7ff16641587580a73eff4c76ead89f99c2ad1ec65a91fd7a8f5c819"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/elevated4.blueprint"
+hash = "d3370649b7e71b918b8c044de2c257345a33a96462b65416fef251437fe46cfc"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/elevated5.blueprint"
+hash = "368e79fc0aaa835da4e817808b3f6e237036141ca0096f193ec36ed6c6903c10"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/hospital1.blueprint"
+hash = "9aacb2a2f83c6d75a3234a862e8346b8cce17261138c525d1fcfb38cb5a4f1e1"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/hospital2.blueprint"
+hash = "30a5522eca75bb0e250ed64025f443abc3a90524b56c8c59cb1344fd36f60f07"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/hospital3.blueprint"
+hash = "26cceaf8e3198981784934f668a5ace18194960f637c6fd15a6cc43cd959cae3"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/hospital4.blueprint"
+hash = "0ac98b928039297fb378d9161edaee942e6af57738780240c34db8c15a7e79c5"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/hospital5.blueprint"
+hash = "d624d6dd2aefc4d3780dc9439b66d077c040c13b0b516207482634bc9d882240"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/hospital_leisure1.blueprint"
+hash = "8e3fe4e275fbe842fc315384af6a6197597a663e2d8e12747fa23957d2007300"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/hospital_leisure2.blueprint"
+hash = "c68ce6b50e74776c5b41c400f18572204ed0e8ed103b25c609a165b562e21327"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/hospital_leisure3.blueprint"
+hash = "48dc3932e3fbdf590561991b170ddb684435416712e70e445e38bee4dc4085d6"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/house balloon1.blueprint"
+hash = "0fe491ea6d6a45d727d86d3661c33e033b7612a0560ccc0da2b52f8d84714d66"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/house balloon2.blueprint"
+hash = "01866873f26072bb7cb92bcc1c13eb5887b9c087cacb1f07214305d10fbb78a6"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/house balloon3.blueprint"
+hash = "85ec5587af21be0c65858ec1290e5a0136740550aa0056cb9c5589c099fad24a"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/house balloon4.blueprint"
+hash = "10d31677c8a7eee0d6d2a8b37afd599f66b397c0015da467285f8cdbda71b34c"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/house balloon5.blueprint"
+hash = "167c54099d2fcd4a53ab48fa997dd9fa8906bb523522cb3c5a632be3461d1e00"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/icon.png"
+hash = "5ef65c55967b60361a9ef6c00678c71b546bd064afb3e3dac1bb5086ba124389"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/icon_disabled.png"
+hash = "6ad79c8c963eeac3843132b18e553d1466bbe70d64f59ab505b3a071e1d98595"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/inner1.blueprint"
+hash = "786103bb7fc2cb71dfbd20b2947e0810c1dc73e8136169185ff7621fa979aa34"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/inner2.blueprint"
+hash = "993b96f27e946c6ee860a1466b7e99fe43a00681ab51ebe22aadb16addea8da3"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/inner3.blueprint"
+hash = "5b6c57dd4d0b9d46f7746034c57025afbe726b6e8bed088ae3035623ad31f42c"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/inner4.blueprint"
+hash = "b29baeda54a13e62689c7cb104fc7164ece54aec1e65d73d8db117f121b0c88e"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/inner5.blueprint"
+hash = "41e50ed45580767203751fd30d35fe8604f5d390c3b186b670767645bcae08aa"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/lumber balloon1.blueprint"
+hash = "30916b450a6957370541d7665842b4f7ccb61eb0d1574d7e990ef9ad9b26e8f3"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/lumber balloon2.blueprint"
+hash = "1934341d2940edba38a6d3224c17d552517e8c9eec78662f979fd13490de5f69"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/lumber balloon3.blueprint"
+hash = "a7b8f573957c06a772a3d1a637f609b0a66e68363646d615147fadbe137f7e8a"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/lumber balloon4.blueprint"
+hash = "d9433924efc8e3986fdca5a0af28ee1df26b942099e0c3152ae8e8a4e9caa5db"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/lumber balloon5.blueprint"
+hash = "034d675516ec361324be60d0b2981f19cc0754639d939eab0a715d6200a39a8b"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/lumberjack1.blueprint"
+hash = "267edb27fc66079c5ed2fb210f32ab7c6d4a46ccbd09edf49266173341fad24f"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/lumberjack2.blueprint"
+hash = "1db93a9dc6a6f417cab550bd1e9b14962bac339da157dd9de4306abb2a4b4fc5"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/lumberjack3.blueprint"
+hash = "0834719dd00aec05666ec1ffbe72c7f298919ba7934da5cafe2fac583d1da120"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/lumberjack4.blueprint"
+hash = "52f75ed0368791f2c61ce0e6186d562a1932ff5ae9e112db1d7544ac399b627d"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/lumberjack5.blueprint"
+hash = "61bbadc1719d7c25cfb6d3d520b56d1831ab31e39a6d1808c5f35aedc1c86d79"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/miner1.blueprint"
+hash = "77e0b2318a5504d2ec3417c0db2929a771809ae19665fab8a3761a38a56ae1a8"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/miner2.blueprint"
+hash = "b33890d9ca873c4260003b59aaf6814f5486519db337a5c0f0dd48041bca0233"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/miner3.blueprint"
+hash = "f85d4bd47a3dbe886ff88ef45b51d234ba05e34c88646538bfc1caf2c8ced2e3"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/miner4.blueprint"
+hash = "5f1ebf0128aa4cee86872b3ec82e9f8f1453930c4ba1e7fbf1b68e9d5ee6223d"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/miner5.blueprint"
+hash = "90e2f5d2f73c4ba739ba2ca4fc5d8a24a44b8459e59af12462f4092c90b9f096"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/outer1.blueprint"
+hash = "2f1856050db3ddb3887f1affaeb7bade8d549b1671fb428c28c8a4c0de9e4b3c"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/outer2.blueprint"
+hash = "a7eaaf0e5cb3e90cf5ec29debe197bb76d624f255b1ba4f8dcde2b31265fef07"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/outer3.blueprint"
+hash = "35e88b0aa8dc8414ce8102c2fab7f905c0d7a51feab12c35fe2530148cdbf912"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/outer4.blueprint"
+hash = "264bee1b827ecaa1849bb394243c92a68ecae8075a7121790cf482b773fdad62"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/outer5.blueprint"
+hash = "815998d3385338ee023ff1a5283afa40e68cef476e5a4ebbf0df9a5ee52a85b5"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/residence1.blueprint"
+hash = "926a7683169a17bf430478fe5b5d6307a377baf8b688166795852a1c87fc981e"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/residence2.blueprint"
+hash = "a079155e6492550426cf06ec24540e57cbae0c1a47e9bebb39a7eaa5315fd005"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/residence3.blueprint"
+hash = "3f37b810460696158ed1e5ba74a999fc3b312c2ba17e8ae5399d55a7ebbf1043"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/residence4.blueprint"
+hash = "3544948fdefb48f337f08c1366f5318746952a4e9d114a54b969beab214f8543"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/residence5.blueprint"
+hash = "2c87e309edb1532a4bc3ba69efc6743c123106f13870862788b25b8702e2e804"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/restaurant1.blueprint"
+hash = "e81190eeca98d5a87f31d5c767e6af95b92d25eb71fd8f4ba1b1f1ed3fe560d7"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/restaurant2.blueprint"
+hash = "00dd0315abe5c9a7759f2e2c6bae4e6ec424e2f49c3490faf8160a008e11a88c"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/restaurant3.blueprint"
+hash = "a4c795078d65c056597b2feda046eb8b69db40ef9870bf6b968c981f84cfa6f0"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/restaurant4.blueprint"
+hash = "f3e0ba268b91c28a1caafe754371142678605c451d0ffea59d08f231fa2e4765"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/restaurant5.blueprint"
+hash = "877b97269a879c77f134f8c4fc3643cbc0c165e4b0df878a4ce34f3f549639f4"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/tavern1.blueprint"
+hash = "ca2fd0f1293a48d8e75e59ec9681a3aa0188acf9ca3bcf3f3809b4591cc29220"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/tavern2.blueprint"
+hash = "33d6131a30ce64f92f879e198fe9fd1b58219e6981825074428f4a0915020b17"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/tavern3.blueprint"
+hash = "7118cd9941c4cddc59ed7cd25c1c7fa692db18d79a8994d47b1d9aa3faff2c08"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/townhall1.blueprint"
+hash = "e6f54108efaa3be43de99ede1e17f9fa45eced7c8e0cb14ae2aa904e1dff6d70"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/townhall2.blueprint"
+hash = "4996a8fb9e29f13b673fdaf81673f510252c40555e127a30f5cf1fa26e817889"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/townhall3.blueprint"
+hash = "eb7ab0b04734cff2fd024aa7337ec3a4809c67c5a13938d26eb657abb53c2262"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/townhall4.blueprint"
+hash = "c37c67fb9f1029bfd1bf1117d94191ab95997129ff9d582ee498ec25320fd3b6"
+
+[[files]]
+file = "blueprints/Cliffs/fundamentals/townhall5.blueprint"
+hash = "0d2ea8a9e6e49ddbf60e80e8569091e8370d8cdd7e2bb5255da8d9e830eff78d"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/catway/deadend1.blueprint"
+hash = "9c5f3d9398b8e8d6725ff1231cbb2e6828b0731d96f2b1cfaab116198c8c460a"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/catway/deadend2.blueprint"
+hash = "e08e37313567d555fec5976b67c8ff1bac2fa2a5f13e7b5e071353af886948d0"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/catway/small_garden1.blueprint"
+hash = "1122ef774422d93fd8a2d76d72f20325aee4b4051d04e5f3a0332b3b0e3d18ad"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/catway/small_garden2.blueprint"
+hash = "d0f848bfb4a546a8f3899affee0c1c8e9c4dedb66c301ba0d4006bb7a2e648f3"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/catway/small_garden3.blueprint"
+hash = "50b164e7d089db604d949dcc7aea548cf318c70a466ec4edda7b742ae29f373a"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/icon.png"
+hash = "91085e080cd83b99e3d4217131fc204832bb0c88b219ef448c3dda63a8bb7268"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/icon_disabled.png"
+hash = "72111d835413304b20c88b9cb0d240c207218a5599eb6c0831c645ced7d4db08"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/mineshafts/minermainshaft.blueprint"
+hash = "b07df78754a1e03b160692355caf6ce16d8e48b3b3c251de33fceb1496b444ef"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/mineshafts/minerx2left.blueprint"
+hash = "54fdffa40b36e7993aff62c1523847fb18070e64ccaab09fe86e2c49781aab90"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/mineshafts/minerx2right.blueprint"
+hash = "a389e65630509cb7b7f392f9705206f03268953eb460dbba6607f786f4ecdb7d"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/mineshafts/minerx2top.blueprint"
+hash = "773ffb8bf87b68b098f9bf7f33eac37dd300217869f4d56083be875df05a44af"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/mineshafts/minerx3leftright.blueprint"
+hash = "7e99741512306ef85b487aff17ea0156285e4d3c037fd8a13e5576b79b0badf1"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/mineshafts/minerx3topleft.blueprint"
+hash = "14066ebdeef810bbd60ddbc22e0c76a59fd544454f32139906b5acc8fe130043"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/mineshafts/minerx3topright.blueprint"
+hash = "7fe0fbc3f639944d9f4f0efb8a80ae4a0232262e73cfddc954aca299b380046b"
+
+[[files]]
+file = "blueprints/Cliffs/infrastructure/mineshafts/minerx4.blueprint"
+hash = "d5190bc3070a97fcf699bf515fa112d6952a9a90e991296ce2d2e405871c4555"
+
+[[files]]
+file = "blueprints/Cliffs/military/archery1.blueprint"
+hash = "7555c21197743fde7554d27edfdf4804d6c198acbc05023a26eca96b848578aa"
+
+[[files]]
+file = "blueprints/Cliffs/military/archery2.blueprint"
+hash = "0f1c47f3e50af4001b032d37b206502961f0dc8eda9961b818a9c67450087f3f"
+
+[[files]]
+file = "blueprints/Cliffs/military/archery3.blueprint"
+hash = "6d16bc75180842ffcf83818ff5c7303a48794155a41663edbecf560c14372604"
+
+[[files]]
+file = "blueprints/Cliffs/military/archery4.blueprint"
+hash = "a04030c26904813c3dbccf29ddca8471ff6993f33f587c89fd2c89bff6d06fa7"
+
+[[files]]
+file = "blueprints/Cliffs/military/archery5.blueprint"
+hash = "2ad186dc1e2b08e4386e386296aefc1f9e281275dad2e4525292e06844e09f16"
+
+[[files]]
+file = "blueprints/Cliffs/military/balloon1.blueprint"
+hash = "0ccd4233caa7fc9aa13d58a3ca9e5ed5e1b741bd97f4d9a4b175fd62d286c585"
+
+[[files]]
+file = "blueprints/Cliffs/military/balloon2.blueprint"
+hash = "0b0185d037187423760f8f22cbef7bb24136b23fdf53ce7400ee5bf67c94dfbb"
+
+[[files]]
+file = "blueprints/Cliffs/military/balloon3.blueprint"
+hash = "61b0a29877813b89194db3165fdb2593a7c71de66df9b9080ae8ef27574ba389"
+
+[[files]]
+file = "blueprints/Cliffs/military/balloon4.blueprint"
+hash = "1493325efef5e4f5a566970df3ae4b453be4ffa09bbf0102a85b15a0f34cc1bc"
+
+[[files]]
+file = "blueprints/Cliffs/military/balloon5.blueprint"
+hash = "c7caf4bd7c1f712dffb7ee888e25ae753e88b26bd1df64e01b7fe38551c96030"
+
+[[files]]
+file = "blueprints/Cliffs/military/barracks1.blueprint"
+hash = "17d260c99977b45cc20c4f46adf85d0943d8be4ca508e695a9822d9826d775bf"
+
+[[files]]
+file = "blueprints/Cliffs/military/barracks2.blueprint"
+hash = "4acd997f644f05aebe574c038eaa563284ff0f98308beccbe450500a8a1c100d"
+
+[[files]]
+file = "blueprints/Cliffs/military/barracks3.blueprint"
+hash = "d9bb5025bc7367d6ba045dbca7868914afdf8b17e03656e569cbbf0fbb7279ae"
+
+[[files]]
+file = "blueprints/Cliffs/military/barracks4.blueprint"
+hash = "3dbe1f67d875e39ddfd878f5a1ad55a016e8a1f6b11b3fc59b4cf49b1fc71cdb"
+
+[[files]]
+file = "blueprints/Cliffs/military/barracks5.blueprint"
+hash = "195affe75ba89da4ba5ad3de16cb784575b52e06e513c781b3f89f61be27b73c"
+
+[[files]]
+file = "blueprints/Cliffs/military/barrackstower1.blueprint"
+hash = "bf460330d6d9643fe3dcf7d59abaca667f71edee0c8ca5645f006c6d0a60a786"
+
+[[files]]
+file = "blueprints/Cliffs/military/barrackstower2.blueprint"
+hash = "ef44ccf148984f9345093e9ac537da687bcc671d2a1a0cb1440e4a8e57099083"
+
+[[files]]
+file = "blueprints/Cliffs/military/barrackstower3.blueprint"
+hash = "63eb7cc25f84488702453628403305b2ef055aa1cead9d2e3004816097eaa1d3"
+
+[[files]]
+file = "blueprints/Cliffs/military/barrackstower4.blueprint"
+hash = "42302d0fe003403094ebbb27ec2fb0796a3a7c2d2b6ceba1efed6ea4b62af1f6"
+
+[[files]]
+file = "blueprints/Cliffs/military/barrackstower5.blueprint"
+hash = "78de0a53b9c64d427a7ec11c2ccfb231dd5172f211d35207ef5b115211bb2d6a"
+
+[[files]]
+file = "blueprints/Cliffs/military/combatacademy1.blueprint"
+hash = "f4e56fc897d44db672b1689d0d80897e7728ccb24c3e7836de984ce69df8c225"
+
+[[files]]
+file = "blueprints/Cliffs/military/combatacademy2.blueprint"
+hash = "25cd84b846eeea596ec65706222f8ef3f134ba69a8a2c23539ed00be1c269771"
+
+[[files]]
+file = "blueprints/Cliffs/military/combatacademy3.blueprint"
+hash = "cb00de6375c2be614368a76f3e4dd667487e73bd4188df7da620681b2d5bcd43"
+
+[[files]]
+file = "blueprints/Cliffs/military/combatacademy4.blueprint"
+hash = "7092365bca451acdd5cf8d492a0544349dcd16653ad2705b1e7534d709d2b5f1"
+
+[[files]]
+file = "blueprints/Cliffs/military/combatacademy5.blueprint"
+hash = "2fd03ff0c17d7ea6a45eb7afdac3c1f981983a31dd9e3774db5e5c84926a1346"
+
+[[files]]
+file = "blueprints/Cliffs/military/elevated1.blueprint"
+hash = "e2f25eee86a8370c0dcf28d5795a4ed6906c18c58b3bd505af387b2af15b66f7"
+
+[[files]]
+file = "blueprints/Cliffs/military/elevated2.blueprint"
+hash = "27713a7202c90ee153e84e397660f60e3a75d6953930874029d7d443996a6d33"
+
+[[files]]
+file = "blueprints/Cliffs/military/elevated3.blueprint"
+hash = "fd10db5c1b5a6cd97e544158f355cee9aff4dd2f1a9b81054970d05b7d23c539"
+
+[[files]]
+file = "blueprints/Cliffs/military/elevated4.blueprint"
+hash = "ec32162b19574793c55e3709a0af14cc92d105b6236f591f605f270f33ee3693"
+
+[[files]]
+file = "blueprints/Cliffs/military/elevated5.blueprint"
+hash = "91b6ec50a2f05d02182b724acea2403b153963c144ecc2f0ca4618c8889a9450"
+
+[[files]]
+file = "blueprints/Cliffs/military/guardtower1.blueprint"
+hash = "66aceda5df1fe06dae014d1be4d46753fb0b313add5c9d81811154f4398b1640"
+
+[[files]]
+file = "blueprints/Cliffs/military/guardtower2.blueprint"
+hash = "8af3eb8fab6457140bc129b9ac0a10864231cde06bb37a9f4426dedc2074ec0c"
+
+[[files]]
+file = "blueprints/Cliffs/military/guardtower3.blueprint"
+hash = "f78de0251ea47e9adc210bbbcda07aac72e95de90419b532d2583460cc3a33b5"
+
+[[files]]
+file = "blueprints/Cliffs/military/guardtower4.blueprint"
+hash = "988261ca864a80f2e0f3880a24ec95134ee1655dbaaf381d7062f37b5156f938"
+
+[[files]]
+file = "blueprints/Cliffs/military/guardtower5.blueprint"
+hash = "498edc3ab66b3734ed508056098dd72e90cff7fb508bdc9efbf14fe944440354"
+
+[[files]]
+file = "blueprints/Cliffs/military/guardtower_false1.blueprint"
+hash = "d2d88eeaf20971688afd9353bd2c4b7d905bbcc9c7ce0a83495c79c35146c5cd"
+
+[[files]]
+file = "blueprints/Cliffs/military/guardtower_false2.blueprint"
+hash = "aae723ac7a12e53f009e5e601c0603b9901802980659e1cd76be07716e444126"
+
+[[files]]
+file = "blueprints/Cliffs/military/guardtower_false3.blueprint"
+hash = "042dddbe1011fc1a34bb946b839263a5857fb1fd98a16357230039b63173d386"
+
+[[files]]
+file = "blueprints/Cliffs/military/guardtower_false4.blueprint"
+hash = "a5e7cb9b38d0dca9c838e23035e6de0955b7d5be3b584e9e1c180c5852e2abb3"
+
+[[files]]
+file = "blueprints/Cliffs/military/guardtower_false5.blueprint"
+hash = "0863ea33b3fb0f233a2b2c1c10468449d42c65a3e54054bfcfe1c46c05405ea6"
+
+[[files]]
+file = "blueprints/Cliffs/military/icon.png"
+hash = "d488eb6cfbd429bd2bd773c9be2c2d57aad6af9c419bd775235588b2506f90ae"
+
+[[files]]
+file = "blueprints/Cliffs/military/icon_disabled.png"
+hash = "7e798e26148e2f959cba8b89d57f4d63e97b3c7e17eedccca6b5a88730f90fa5"
+
+[[files]]
+file = "blueprints/Cliffs/military/inner1.blueprint"
+hash = "8b5bc87f1250da85033441711655fcbc2cf7e5d11166a5f344d3062795a56705"
+
+[[files]]
+file = "blueprints/Cliffs/military/inner2.blueprint"
+hash = "48fe15e80f4a5e96ad2df18c1bb73242420bd300a860951dd1ef7dcf5ed7aab3"
+
+[[files]]
+file = "blueprints/Cliffs/military/inner3.blueprint"
+hash = "31a6f24cbce2f928947b4b28323882d78a052b94b54e26f530a285d00f238d05"
+
+[[files]]
+file = "blueprints/Cliffs/military/inner4.blueprint"
+hash = "64a6192a4ce5052b03838ca8dda6fa45501ff38fbcfb834a53b7bef6a73fd134"
+
+[[files]]
+file = "blueprints/Cliffs/military/inner5.blueprint"
+hash = "454e8bb286f029dc140f321ad67f48e27a32128b13b1585caeeab8e747ea852e"
+
+[[files]]
+file = "blueprints/Cliffs/military/outer1.blueprint"
+hash = "12fefe2d39c7f92f4538bd41c1720f991a43e0d5c48f83b910ed8e87a244343e"
+
+[[files]]
+file = "blueprints/Cliffs/military/outer2.blueprint"
+hash = "8d4be21b3c7681478f1c4ea83b889167b43b29d0d732be4d950a302c9cdd7a41"
+
+[[files]]
+file = "blueprints/Cliffs/military/outer3.blueprint"
+hash = "5f866e5ed78f62849db79444f2ab62a34ca0c327885bc1afff7acc46a84564b7"
+
+[[files]]
+file = "blueprints/Cliffs/military/outer4.blueprint"
+hash = "20b89b400ef1ba0503e60636f2fd64a985262b49eb7084d7a4f7d1a7aa9981ea"
+
+[[files]]
+file = "blueprints/Cliffs/military/outer5.blueprint"
+hash = "a117cfc6bbf1a6eedf3896c0078da698b1b09a795c0263e64c720f4af4112fc5"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/enchantertower1.blueprint"
+hash = "db55e26f58e824ca683592f8b741e73a0415586c9e35dcb3834f77ad241b8333"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/enchantertower2.blueprint"
+hash = "450ad7b0d5e626f1cc2160c38da2bc66df4999ff1e2faf26aa4ba7e320d4cb13"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/enchantertower3.blueprint"
+hash = "5f36b77e7e4830c81f6f361b5f4c803d2a7df4ecf5b13727376e20bdc5b711ae"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/enchantertower4.blueprint"
+hash = "438fc04ee73af3741dd9270a8f3258bef2329e99ba8160d2d632fb9bd9e66d17"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/enchantertower5.blueprint"
+hash = "5bb86e54ffe84b1063507a1c3cc9c1dc3f753f2e6131bb1d3b9cb5cbb2c95eae"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/graveyard1.blueprint"
+hash = "32874e17bc5928a1c181cbb1b57d736eab18d51848112bae6ca9ccdc3b977118"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/graveyard2.blueprint"
+hash = "9664c7525b6808fe0800d184086f3152a92128e138be5a7175d20edb81aafced"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/graveyard3.blueprint"
+hash = "55a630bf6e2eafd951eaaf53e235ab8d8389457ce12fb0a732820ca25859d99a"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/graveyard4.blueprint"
+hash = "27d3bd2b7014ac5a13c6addc6c0535f2e9d9be3a2d467e369d08d90d1a96de12"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/graveyard5.blueprint"
+hash = "c98911e736f68e1611aafc35948aa507a7c62b873cb6ac165d97a22bc0375228"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/icon.png"
+hash = "ababe411bfaa3af8ee23113838920f2bd30e5db56af238b4978fe53f9cc8e83a"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/icon_disabled.png"
+hash = "c02f06faa97c83c59ce5fcbe06b8f977ec2ba4a426885c406464433d0a83f624"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/mysticalsite1.blueprint"
+hash = "5484c649c2fdd462f135cbce0226102840d72e9eac4ff08102897bc9b50e0728"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/mysticalsite2.blueprint"
+hash = "3ab880f50aa28cb881303daec0dc09de73fe0f6a5e6d54e77a1c0a1bddccd04c"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/mysticalsite3.blueprint"
+hash = "aa332e21016546bacd66bbb7ec338229be7e7e3227764b7a07855387a888be7d"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/mysticalsite4.blueprint"
+hash = "e396067a89b6d32fcc0b99e5c179cbda184e268dcf5238bb6a344815683a05bd"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/mysticalsite5.blueprint"
+hash = "feb687e5ef715df6a346e56f2bd7e66fd6a429d25658982cf756649a4e7acfa6"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/netherminer1.blueprint"
+hash = "32d841109e8f49e7b544b05e4c202a7d0180e77f8c9c8395840bc2735e6c9cb3"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/netherminer2.blueprint"
+hash = "5b1719d51f9110b372fd0a694e0064286d323b8f8e5b90be69c2554010b13e55"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/netherminer3.blueprint"
+hash = "b47491f81c2495cf4a7150a96dd0fe503f5d91eba97dd8d103665c6969458640"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/netherminer4.blueprint"
+hash = "557a051efe1f71737078f2814b7ab8cf7998f71518c785e4ac700eff582097e6"
+
+[[files]]
+file = "blueprints/Cliffs/mystic/netherminer5.blueprint"
+hash = "f095c97573b2a8bface8ab94f499f5ca2011746486c3ccf5b18239a4a994dbbc"
+
+[[files]]
+file = "blueprints/Cliffs/pack.json"
+hash = "cbd3ca180362e17f0236f87f55b8df11ea51133618e90bacbe0949a0452cfa70"
+
+[[files]]
+file = "config/betterdays-common.toml"
+hash = "4b9405b37e0ae7bc3ee864e56827ff6201c637bde224edfa65a73bb0c987397d"
+
+[[files]]
+file = "config/bhmenu-client.toml"
+hash = "b20fd028941414970cb4541bc8773077473ff7880a549ba3ef88fa7483f5e469"
+
+[[files]]
+file = "config/biomesize.json"
+hash = "8f943c121b383233ec602b964e7935efe61a440057aba150d184a5b04edad928"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "12d946d8f0e60ad5e19f7d0d7d177317afb9e8f527a6386b486c0fa2fdaf5d4a"
+
+[[files]]
+file = "config/expanded_ecosphere/config.json5"
+hash = "ea857ae9967cac62ffdff99175d44a65455ad0cef44fdc5dfa19a913f90be150"
+
+[[files]]
+file = "config/expanded_ecosphere/replace_biomes.json5"
+hash = "d26f38c0b743644dcc7191b54563abb3b73500b8e542bc32d71a5eea7904f7ca"
+
+[[files]]
+file = "config/memorysettings.json"
+hash = "1c6c8c4c474b6dc4bec4c34aa6b36703e4c66f79415e6c358b16545ddacf3969"
+
+[[files]]
+file = "config/overgrowth-server.toml"
+hash = "64e5d34bbdb13fc4baf29ca6478ea4cfa7fc14fb4504ca7917e6033d637310c6"
+
+[[files]]
+file = "config/packmenu.cfg"
+hash = "39a2a513295bfcb70c871e93c4cc4d5d518c5728db01ab39be1ee2c75a63418e"
+
+[[files]]
+file = "config/respawningstructures.json"
+hash = "d50cdb405a20b42955eb785c79f231f5928a1e3be3e8728f763a5f5fa120872b"
+
+[[files]]
+file = "config/storagedrawers-common.v2.toml"
+hash = "f7eed559488ed8581c9038051400d8cd5abaee4155e897bf02eef291e9e82ddb"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "a6d71c99c760cac2ac8fdb7624a134edfb032420f3bd48fa3c20ee44d007b298"
+
+[[files]]
+file = "config/weathersettings.json"
+hash = "b99feea427c84aba293e1a8bdc9599f33079b881c0846f8ee9694108d092f361"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/deepdungeon/worldgen/structure_set/deepdungeon.json"
+hash = "6d99bd67cd10bbe84bb067a65f45318d0b2c3576bcf08489c25e3a71d8b0c3e7"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/black_sheet.json"
+hash = "862b55e5dfaefde64dd4fb5a732cb977a2a3221dfdf43ed8dfb28c45d378fadf"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/blue_sheet.json"
+hash = "7b7455e3cd4ab5bb4d3da51ff6649dd045b041ddacd185b29c994fc8c4fd3298"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/brown_sheet.json"
+hash = "2152f67ac46f2829be19fb083969d7ac62cc8131604da9a6ad33bec3aeef29a9"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/cyan_sheet.json"
+hash = "32a5f6a7664493b0932baee4b9a2b2a0a6f0f3501f544396aba1da48a2f56b74"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/gray_sheet.json"
+hash = "9a3526ea9a4b6b13dd687d7bc7b3a14b1afb96214ac9fd124847e5a9a657bfa6"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/green_sheet.json"
+hash = "80af68f0be6ff346f9ac11a76c7bd61ee4f165645187fbaae0b268d07a659959"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/light_blue_sheet.json"
+hash = "73a10273df266854d7e14ea96276c442e4c298c3729a0a66789eb8e0833a60c1"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/light_gray_sheet.json"
+hash = "465572a914ba0ca3051e7619884a2367bb490ae0c1e62cf472b0dbd750f08524"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/lime_sheet.json"
+hash = "d0e237ec9c25cfbfd9e57aed305db445e6631382d74e6d07421d006779170d48"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/magenta_sheet.json"
+hash = "07024b8c32fa00c238f016ebaf8c0582cfc5070cb6da2eb3671662d6f509679d"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/orange_sheet.json"
+hash = "d4013cd9e1a07b3a03e5405f64806c81d368c2d15dfe1724bef79f000b23ab34"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/pink_sheet.json"
+hash = "7aeff7ff87f15fa3ce606d786cc7b8bf4c53b5da1818ada703349c6f2a938563"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/purple_sheet.json"
+hash = "3b45b399f603f2ad86cdd43c209ba87cfa0b0630196285f2ae4e787fb6d6cc78"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/red_sheet.json"
+hash = "2f444d24321e76592769002677958b1fc977726860963ce314e272cd40173623"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/white_sheet.json"
+hash = "de91551ade4be4fda28b8e616549812d53bd408b504026a65dd23a9f647d2420"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/handcrafted/recipe/yellow_sheet.json"
+hash = "d6eac509e72168290c8a8635868b37568d29a2f706ed7bc70408f8059370db36"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/minecraft/worldgen/configured_feature/jungle_bush.json"
+hash = "498eb22a3e75ffa50dd25bbc3cf9fdae6863590c32dbdc948083e3c264d67b6f"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/minecraft/worldgen/configured_feature/jungle_mangrove.json"
+hash = "fc23de23b59d88dc0f2bc2a688422a555197cf2356f53504ac187c6254f45340"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/minecraft/worldgen/configured_feature/jungle_tree.json"
+hash = "8f7a2c6d9306dffbe7d910b92cd72b695e7b5ff225d8c52b49e578efdd17ebe6"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/minecraft/worldgen/configured_feature/jungle_tree_no_vine.json"
+hash = "d8e34cb47dbdc2496286fc510bb7dcd571b6fb261384a5ff5327e6a46591124d"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/minecraft/worldgen/configured_feature/mega_jungle_tree.json"
+hash = "23846f81e26466dd07eb95102ceef9ac8937bb9180f2b6d8dbcb709cc69730af"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/storageracks/recipe/acacia_diamond_corner.json"
+hash = "427822d90c90eb07e6a3a182ae4c3525249f96336034913fef9b27d7e257f82a"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/storageracks/recipe/bamboo_diamond_corner.json"
+hash = "a36393e958b0bb5c92181fb00d674c1541fce4c1639e72a6f5c6c41f2bb4b040"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/storageracks/recipe/birch_diamond_corner.json"
+hash = "a58a098952786bb6bd2c41cc1af87ee37b39dc49ee26997ee492cfd91ff42bda"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/storageracks/recipe/cherry_diamond_corner.json"
+hash = "16b164fba36b053379547ba5f7527486b2a744c146bc73639d1abb1d1e6b205e"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/storageracks/recipe/crimson_diamond_corner.json"
+hash = "417d5443fa39c3f5037db6cf0151e920484abc341e7963296652e73134b278fd"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/storageracks/recipe/dark_oak_diamond_corner.json"
+hash = "c4854babed689c9cb65bc7b7604771e28b93d970b4d70ebb552fb4392faaba89"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/storageracks/recipe/jungle_diamond_corner.json"
+hash = "1c49a64b395bd4724b27a02fda7d5e69308100c862a59da5a6b000e0be567367"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/storageracks/recipe/mangrove_diamond_corner.json"
+hash = "ad4084c1919aa1c9a45651d264b3cd7a5e61195cff9f7d2eb3aa6b7838b741ae"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/storageracks/recipe/oak_diamond_corner.json"
+hash = "4338bdbebb3a1833bdd5d436dde66726f5056307141a2a63eb036653ef9e3877"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/storageracks/recipe/spruce_diamond_corner.json"
+hash = "c3a36fd0182efab1982562b2a8d7987e1119424eaf0c597fbedf412022a1beb7"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/storageracks/recipe/warped_diamond_corner.json"
+hash = "3a1654ebae9a3a300a3f7f46367a461c90d0b5f03d6aac1008b53fcd619bcaf2"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/effects/drift_east.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/effects/drift_north.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/effects/drift_north_east.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/effects/drift_north_west.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/effects/drift_south.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/effects/drift_south_east.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/effects/drift_south_west.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/effects/drift_west.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/effects/sink.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/effects/sinking.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/load.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/tick.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/functions/tickd.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/predicates/boat_in_ocean.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/predicates/in_ocean.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/predicates/wet_leaves.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/predicates/wet_leaves_copy.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/biome/ancient_oak_swamp.json"
+hash = "e8af148bc29d020e38ab4b854f42a58225bf005546aec665496193ff98358b6c"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/biome/forbidden_forest.json"
+hash = "d84f666c26c434ebd4472116d05ba5d5eba2a9f33d685d23d0b3d8c338930ffe"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/biome/phantasmal_forest.json"
+hash = "0659c976f00a68a3040c33a6c45c914d1bc753ef485b9fed941ca13ccfc94dcd"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/biome/phantasmal_swamp.json"
+hash = "0659c976f00a68a3040c33a6c45c914d1bc753ef485b9fed941ca13ccfc94dcd"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/configured_feature/vegetation/configured_tree/autumnal_birch.json"
+hash = "f66c3374920dbb89425d9bbdf698b6dc9f281c08fbfeaff313760c18eeacdc8e"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/configured_feature/vegetation/configured_tree/azalea_birch.json"
+hash = "f6049118b5d008e5ab8f9a89177bdc207944eb1669e2f9d57d3cebfad62b0e1d"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/configured_feature/vegetation/configured_tree/azalea_conifer.json"
+hash = "067e8d755c47d49f512f8068f2449a10a07a4af8bfae47b54da56e5e9bf28ea8"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/configured_feature/vegetation/configured_tree/azalea_oak.json"
+hash = "de776d1cd0650a7e29e8019498986fa7f9aa320860a366b211e1a78e36ff442a"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/configured_feature/vegetation/configured_tree/azalea_scrub.json"
+hash = "81fb854618270f07d4da2834a043abfea2ad01b80e0a67fa0ad435961cf13a64"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/configured_feature/vegetation/configured_tree/giant_azalea.json"
+hash = "d2cc7c036803e69aa5ec9355042eaf3156af4d24c292edf1afea2226f5fb73e3"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/configured_feature/vegetation/configured_tree/giant_azalea_moss.json"
+hash = "51f7299af0f580e91548f59ff7c164176db6c455757bee3e350d4e1aa10a3791"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/other/placed_block_column/floating_lantern.json"
+hash = "f6742c6311e44954f618c83d50a1c961c2f582ff22b777e1bce81adbd9540442"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/other/placed_random_patch/floating_ice_patch.json"
+hash = "d9c37b8729e6478f28ce4ba39482e5d94890d9a5820b9c60b92006ab9b5c5d5e"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/other/placed_random_patch/floating_lanterns.json"
+hash = "fba823cd392f2055163d48ee7afb30c0128c7ca569613d08b92421d61c95979d"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/terrain/placed_random_patch/calcite_cliffs.json"
+hash = "0eb018112427ccd1f650f98bdff3b7558438771ac68f7322f860e73c5ccc6ee4"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/terrain/placed_random_patch/cliff_grass.json"
+hash = "e15c08a704d3bba7ebf1bd48f06ae4ae30a03e5db7257fa15a037af309303fab"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/terrain/placed_random_patch/diorite_cliffs.json"
+hash = "413fb6261cdba7b0812d3bf436d85e6d05f8366fd3988a20a08d4ed6aea0f986"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/terrain/placed_random_patch/granite_cliffs.json"
+hash = "ddd4b3036e940f3ba31e2ed4f81d601fd7b37a03e646eaaf3aed83019d584746"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/terrain/placed_random_patch/packed_mud_cliffs.json"
+hash = "f0e02e313b74be2904955b6ba0a3edb7bfb35ad96dede0ab3bcb56693fc62b19"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/terrain/placed_random_patch/stone_cliffs.json"
+hash = "c3acc4a3cd51369923db9925eb18901dd84e5fb43cd016f62bb10ea1ca6a4391"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/terrain/placed_random_patch/tuff_cliffs.json"
+hash = "86681d97137d1bef3aee606eef2b104ac817e2aa170bef97c9ba2f61ed250ed8"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/vegetation/placed_tree/azalea_birch.json"
+hash = "10f4480618f93f045384c71438d07138a03c1f7d98b3a737f297fa2d773a9bda"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/vegetation/placed_tree/azalea_conifer.json"
+hash = "236088b2092ee7772fd2a6d794897bf54c1df4761e9155ff64ff16b895499589"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/vegetation/placed_tree/azalea_oak.json"
+hash = "a05cb73b35cf7bd8baca3180beb83893f74e67ed166294af3abacdc221edc259"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/vegetation/placed_tree/giant_azalea.json"
+hash = "341abb6b60737639a46227545062c4b8bcf1707d2a13a39e178137a564b673ae"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/placed_feature/vegetation/placed_tree/giant_azalea_moss.json"
+hash = "7cca4b44505f9a8fc2284a17e77e6b9eaf0a89b550dc8f22f9d60a82128041de"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/structure/village_badlands.json"
+hash = "f4e8e9e8b4b6957b66d7437bd98b1cd6943ee040ab7f43d3790c9d7d13ed1198"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/structure/village_badlands_desert.json"
+hash = "b78cb76b71b06986e492dbf8600303c1f41bb3ca49ffa2508edc75364044f99d"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/structure/village_wooded_badlands.json"
+hash = "6f21b1612184abe5d97b30986eed40fb9534424469e7f34445391e4ed9f9d808"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/structure_set/banyan_sparse_jungle.json"
+hash = "74ea2708586e3b128437db255a927022947ce58a2dae154eae08ffd43cb81926"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/structure_set/baobab_dry_tropical_forest.json"
+hash = "4ba9fbcaa04b8308709fe91f0359446c56f12cd79d9d58d4adb80b02696ea6f2"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/structure_set/baobab_savanna.json"
+hash = "21e963e0bb2ba4dc932faa8980bcceb552aee2af91b55648896118693b6d5a93"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/structure_set/baobab_tropical_forest.json"
+hash = "4ba9fbcaa04b8308709fe91f0359446c56f12cd79d9d58d4adb80b02696ea6f2"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/structure_set/elephant_graveyard_fossils.json"
+hash = "319d90b0144e509ed23de2d7254e3ff843d9e95fcd4454899681a58d5fee5fd7"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/data/wythers/worldgen/structure_set/features.json"
+hash = "e669abb2361438377b7efa86e31f14b09453a9aed81c7ba916737c5e06d05f1c"
+
+[[files]]
+file = "global_packs/required_data/mcolpack/pack.mcmeta"
+hash = "ed433bd2cd1798a417c974707571cbad823ce6697a74a6ce8bb4377b58f233fd"
+
+[[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "81a0b529e89d4b9a370b931ed93f2c643b8a6187cefbe548d02ce6dbf6ce05d6"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "fa68bc1eb6c832087e11a130e589cabeb1a891ea94db8246abd245745556b68d"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "07e756eec150953e1da73adbee0c1d4d79cd9c48bc9c78ae4d3591e7097b45f2"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "422e9de11c4996c14a0a907cfe627428c7c52e9ee55c8da0193236038da02680"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "72ca919be55dd04a4d8369ef530427382fe6c4e6df35c4d3d67fbf0ff365622f"
+metafile = true
+
+[[files]]
+file = "mods/biome-music.pw.toml"
+hash = "d7d497a6c1f81a4f6660f5e17cba8a8a31313479c0b08e964d19e8f71729ad37"
+metafile = true
+
+[[files]]
+file = "mods/biomesize.pw.toml"
+hash = "56773dda95d250a5080ca20693d7c6d5bc0983409c34b1618a7c91037ae4034d"
+metafile = true
+
+[[files]]
+file = "mods/bisecthosting-server-integration-menu-neoforge.pw.toml"
+hash = "e3d12b69f218240aff7e92b97d5d47a08c154259adacd70352f4c05c3ede151d"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "05abf6fafe4a8adf5aaa24f09b7dedfbe199a8727d925e816fc608d6357f5ba8"
+metafile = true
+
+[[files]]
+file = "mods/christmascolonies.pw.toml"
+hash = "322d5d2ff56f45e1bb09ccd43f23ad31d01beb86755e8d131699bbe79ea57c81"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "3410013291d8e450d526fab9cd0ae64eadf988ee29489a942a3bed9c043819b3"
+metafile = true
+
+[[files]]
+file = "mods/clean-swing-through-grass.pw.toml"
+hash = "69968d3337983555531273604549745ad124bc95e19363f69cb4d1e41f47a980"
+metafile = true
+
+[[files]]
+file = "mods/clickable-advancements.pw.toml"
+hash = "7b5c86be25546796eb891e4444e0478aaf93d3515e57df4fd20cdda0daa05a52"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "55df2b553b2ff4bc51bec0f1128a9b1d1d5c0ab713f0a074d8f7e8f0fc524c6f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "b0666ac2531837c0ac53374a6b9e72ea4b981b721fc7a94701e0f82bb806fca6"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "3dff3027280345cc6f6e2626a8d3b476896ef4c2b1cf6ab72291fe347447f71b"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "a079bf8579ded1a9eeba488f91bdf632a41ac2c35a0cccd8c3aa3cc9ddb7250d"
+metafile = true
+
+[[files]]
+file = "mods/curios-continuation.pw.toml"
+hash = "728964f212cc592a2fc2ae5106e06893a0697568aa9983d164dc112821dc8fc6"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "9d93dfc367eb58ff112a7ea21959b8c8864890d0a0b5f9d825fa67dba9262471"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "a89b4568aac41f9047a68e00e57eeab23ff4d9a75a0d0335d4a30f4e409ff878"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "732230fce4618b7b3f399e48a9fa632731ebbf4226e39cbcdac06586be15dd5f"
+metafile = true
+
+[[files]]
+file = "mods/expanded-ecosphere.pw.toml"
+hash = "eebef4157b1767818608521fb79969db0318a96d8f75429dfc39f21967cadb2e"
+metafile = true
+
+[[files]]
+file = "mods/experimentalist.pw.toml"
+hash = "7bfc6056d87b24d807f7d7422da276a7c655d06f88fb9a861ce46acfb4bce2dc"
+metafile = true
+
+[[files]]
+file = "mods/fantastic-deepslate-dungeons.pw.toml"
+hash = "e5b20a5066a1edb69518c48f208cecf8cf9aa50d346759965e3361e25b98d83f"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "3138c13c61cca083b45ba2598c2407194ba5ea16d2a610968527eafa021c4635"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "49a15bf3a496e885d01e6dd4bf3e08158c9b5c2998027083c3248a6defbce974"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
+metafile = true
+
+[[files]]
+file = "mods/glowing-ores.pw.toml"
+hash = "dc1dd78f3886bbe608d0ece5eeff8be76f5b119989384bede9f313b3414e891a"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks-refoxed.pw.toml"
+hash = "1d3b922c0d1a43fa497faf27827bfa9f9f3841dfba51d8684435d58c1141fe93"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
+metafile = true
+
+[[files]]
+file = "mods/jadecolonies.pw.toml"
+hash = "94f69e149cc3604cb09197de52e6d07731d56cca3d10388ccb9dbfe8b36ee76e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "2adc7a51ce009ed3e7c1e0d22fd71ad2c152796d8e0ab6cda1447bf89d6404bb"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "9a308f8d3d09130718b68e107a36ae59b71af992ce8e7ae762d677e0a905a726"
+metafile = true
+
+[[files]]
+file = "mods/leaky.pw.toml"
+hash = "6ac68f7b97f37aa2fa4083f61682c7ea95a3bacb52854c6c4454dfbb0967658a"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "befbb4e87240d661241fbbd9b2c3dff07123c97850e62322fbdc036ce454d5e2"
+metafile = true
+
+[[files]]
+file = "mods/memory-settings.pw.toml"
+hash = "20d079e04356c4518ea386bf12fd5d7e77a5887651f816a15a369b92c839b4b8"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "ce718173221a9e3488fb033a59f59f17587381555e096672f3e0a401db316a3b"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "b4c670e5e4aa5a7f99a55c3435d3de9b3aa4cfecbd43831fb32624280205261d"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "548b6786185742c36509af695909f893ca8a4b621d438480b3a717ca17dd87a6"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
+metafile = true
+
+[[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "eecc04e5ccb1ef7b93ad5eb286153ffa672093a23a816fe9c34d37924500214a"
+metafile = true
+
+[[files]]
+file = "mods/packmenu.pw.toml"
+hash = "556d61abbb49eab961c9d70b55ccdc10de455b4d7454a78ec6a99883cbeea7d9"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "998704b5cdd52b78a94a5088c5e90b3a9318f0fd5435084da8ae6e9f6fc2671f"
+metafile = true
+
+[[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "fba0893c1da8c6e93beb9dac0e03228ebc108e3016a44d43c6e4d1faea2a16f2"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
+metafile = true
+
+[[files]]
+file = "mods/respawning-structures-forge-fabric.pw.toml"
+hash = "15af3b7e9ea0510cf6ba6c758a84f9018e9b02b41c3001ba86b10d642994689c"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "ff6934dbf3203c63dbdab3b2b3a89e82c047ad22db63d8511d737a489aac743c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-auto-walk.pw.toml"
+hash = "0eb8e3115662ca57b0d335d98a98b573bc1b75f1b2f0750b61439549689b2465"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "9f0cd1d096b591cb49077fbe4f95a1e24a93354cd9b4d77e74c49af2d29381cf"
+metafile = true
+
+[[files]]
+file = "mods/storage-racks.pw.toml"
+hash = "a57ffb8934ba047e0405a36c4e8d69c5330185150aae93fc0c4795874be561f0"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "dcbf8b45454dc87262ef3660d21e7fb73f035e3a65aa8fb6c1c711c63cec335d"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "2cdd809f9697c72da8337f719ca96e907fc764b4cc6b194807ac83e586d8f260"
+metafile = true
+
+[[files]]
+file = "mods/stylecolonies.pw.toml"
+hash = "6f7259f3f66eed62b0d6140d0b65745d28539fad842e2bd187195617835ea3aa"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "83dae761dae86cc140fe971ce6a8cac9bfe0f9eb39417a71666441a2bcc634a8"
+metafile = true
+
+[[files]]
+file = "mods/theovergrowth.pw.toml"
+hash = "26b5c8a35d19ca75004b4d21836f321f2d09bedd78438ff2548eb7a41f891688"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "164d9000bf1f25aafd1963f1b5d6000205a79ae960e3cc89177ad20eced26b31"
+metafile = true
+
+[[files]]
+file = "mods/treasuredistance.pw.toml"
+hash = "0d081ab462011674df91efe39094588305c40915c79fa13c63ff9302e9ccd775"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "f0770e8df6212a00fcea3dcd72bdcaa344fa745593abc867b7e499fb493556b6"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-cookbook.pw.toml"
+hash = "1faf56abe13939ce109d65b16617a4d9a168de2f178b98421296de15a795c386"
+metafile = true
+
+[[files]]
+file = "mods/weather-settings.pw.toml"
+hash = "c0f1178dedf5f03cbdb3a2bb713368c4079f63487d42ebb8252b4286ac8c76a7"
+metafile = true
+
+[[files]]
+file = "packmenu/resources/assets/minecraft/textures/gui/title/edition.png"
+hash = "cf213c7270a0a9e3654fc0aa76fa7a17d004b73eea24f370af2ae7108fded78d"
+
+[[files]]
+file = "packmenu/resources/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "074bc349983e58a5bec81256eafc1322154db31ce79d199506ed576c5ed7de4f"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
+hash = "227a32238d449c7d4e2943ab88e104e8090259a888d9a02e149272f9d7bb7b3a"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/custom.json"
+hash = "b65d8e083e43359dcc6dfc6911a4be02c5496ab72938cc2b7e931c71b7457821"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/language.json"
+hash = "4e3d1d2787d8bd808783905832c841dfd3ad59d2ba4323debf9f4d05dc5b29aa"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/mods.json"
+hash = "4c30e4de4627f29f7bf20391003ddeed67d43f3f74a634f49a126b7ffb786a64"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
+hash = "a64e4ee1a65a9fdc98146b512f495fd72fd1fefba7da77b295a7d0fddde08517"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/options.json"
+hash = "6c7cbb7c966e14e3de60949595d151275c1e0d34df2f615f2fb3367d993aa861"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/quit.json"
+hash = "303c8acc08fdab89dcbac41d0d44653380a855a7077e735042cda8726273056c"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/reload.json"
+hash = "e1e07833cea9c1ceb9af6b229cac23d4fae122e7cec2698d0d374ea0b42c635d"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
+hash = "a5350098820cc964fffc222a63ef3cf09f6af7445239496ca3190abf9da157f7"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/lang/en_us.json"
+hash = "a9e11266f183540aaf7b2e127e350d4cc1a9805bfb8df6bbacf3fff38a47b454"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/texts/supporters.txt"
+hash = "a930d6ba2229ffdaf7768a063165cf8d3b5ca7bb5e6ef5e65b0ddc49be237833"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
+hash = "4d127237f6be1a98120290ff9aab12227afbacd9378643895d4a92fa327fb33a"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/patreonwidget.png"
+hash = "cc9a64ce860fe5e05cebce32ffa2c536c7822f96d72c6a0929cf03146c0cad1e"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/sprites/icon/akliz.png"
+hash = "acc4eca53fbf4f30be8bdfbea2602a3cad2de9000e6aabf47e2106e457b3f8bd"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/sprites/icon/patreonwidget.png"
+hash = "3a5f8ea3c6628ad4ec85e2ea5678718e49f89a72d64883c87d4adfc2f03dbee6"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/sprites/icon/reload.png"
+hash = "8363c266ab44de1aa364c96c1ea90ec57307ddce6445067d022e9fe5749a5cbf"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/sprites/icon/widgets2.png"
+hash = "3c140f499d321db014e7bbc61a08f1eac954c456742e21cdf24a2ea7dcc7cffb"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/widgets2.png"
+hash = "3c140f499d321db014e7bbc61a08f1eac954c456742e21cdf24a2ea7dcc7cffb"
+
+[[files]]
+file = "packmenu/resources/pack.mcmeta"
+hash = "c92d7a6dc58ca7168bda2dfc3cc0a5acde7af7a4d2134ec54d2014ecf47d9928"
+
+[[files]]
+file = "packmenu/resources/pack.png"
+hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"

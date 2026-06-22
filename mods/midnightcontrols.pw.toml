@@ -1,0 +1,13 @@
+name = "MidnightControls"
+filename = "midnightcontrols-neoforge-1.10.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21c3ca3da1ad6d093bb8d04b7da5c61ddf797e01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6560839
+project-id = 621768

@@ -1,0 +1,13 @@
+name = "minecolonies_official_modded"
+author = "clum"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ccabf0dca0f16dc62b24ab8997c3894ef4c67747a5396ae688357e761f35ca65"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"
