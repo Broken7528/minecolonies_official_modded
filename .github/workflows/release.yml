@@ -39,7 +39,6 @@ jobs:
             echo "neoforge=${NEOFORGE}"
             echo "tag=${TAG}"
             echo "base=${BASE}"
-            echo "mrpack=${BASE}-client-modrinth.mrpack"
             echo "cfzip=${BASE}-client-curseforge.zip"
             echo "server=${BASE}-server.zip"
           } >>"$GITHUB_OUTPUT"
@@ -48,26 +47,10 @@ jobs:
       - name: Refresh packwiz index
         run: packwiz refresh
 
-      # ---------- CLIENT BUILDS ----------
-
-      - name: Export client (Modrinth .mrpack)
-        run: packwiz modrinth export -o "${{ steps.pack.outputs.mrpack }}"
+      # ---------- CLIENT BUILD ----------
 
       - name: Export client (CurseForge .zip)
-        # CF launchers (PolyMC/MultiMC) reject manifests with an empty `files` array,
-        # which is what packwiz produces when no mod has CurseForge metadata. In that
-        # case the CF zip is just a worse .mrpack (all jars in overrides/), so drop it.
-        run: |
-          set -euo pipefail
-          packwiz curseforge export -o "${{ steps.pack.outputs.cfzip }}"
-          FILE_COUNT=$(unzip -p "${{ steps.pack.outputs.cfzip }}" manifest.json \
-            | python3 -c "import json,sys; print(len(json.load(sys.stdin).get('files', [])))")
-          if [ "$FILE_COUNT" = "0" ]; then
-            echo "::notice::No CurseForge-sourced mods — skipping CF artifact."
-            rm "${{ steps.pack.outputs.cfzip }}"
-          else
-            echo "CF zip contains $FILE_COUNT CurseForge mod entries."
-          fi
+        run: packwiz curseforge export -o "${{ steps.pack.outputs.cfzip }}"
 
       # ---------- SERVER (bootstrap: nothing bundled, NeoForge + mods fetched on launch) ----------
 
@@ -163,12 +146,10 @@ jobs:
 
             | File | For | Notes |
             |---|---|---|
-            | `*-client-modrinth.mrpack` | Modrinth App, Prism, ATLauncher, MultiMC | Recommended client format |
-            | `*-client-curseforge.zip` | CurseForge / Overwolf launcher | Only present if pack has CF-hosted mods |
+            | `*-client-curseforge.zip` | CurseForge / Overwolf launcher, Prism, ATLauncher, MultiMC | Client pack |
             | `*-server.zip` | Self-hosted server | `start.sh` / `start.bat` installs NeoForge + syncs mods on first launch |
 
             Servers: requires Java 21. Set `eula=true` in `eula.txt` before running `start.sh` / `start.bat`.
           files: |
-            ${{ steps.pack.outputs.mrpack }}
             ${{ steps.pack.outputs.cfzip }}
             ${{ steps.pack.outputs.server }}
