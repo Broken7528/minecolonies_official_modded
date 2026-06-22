@@ -2163,6 +2163,21 @@ hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
+metafile = true
+
+[[files]]
+file = "mods/ghost.pw.toml"
+hash = "8fff29091742762dbaa1e09eb429f80fa3ef73be7fd182060b74895f3dc0b82e"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
 metafile = true
@@ -2223,6 +2238,11 @@ hash = "ce718173221a9e3488fb033a59f59f17587381555e096672f3e0a401db316a3b"
 metafile = true
 
 [[files]]
+file = "mods/mighty-mail.pw.toml"
+hash = "cfa49c262d039f7f3ac13761560cdb83dfe2ca7adb0513b1bd7b9a6444b5fe16"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "b4c670e5e4aa5a7f99a55c3435d3de9b3aa4cfecbd43831fb32624280205261d"
 metafile = true
@@ -2270,6 +2290,11 @@ metafile = true
 [[files]]
 file = "mods/respawning-structures-forge-fabric.pw.toml"
 hash = "15af3b7e9ea0510cf6ba6c758a84f9018e9b02b41c3001ba86b10d642994689c"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "5d1a0fefc09545d23a75f37a7cd8b7dcf817a7a57fe28f1419b19be92476dcaa"
 metafile = true
 
 [[files]]
@@ -2355,6 +2380,11 @@ metafile = true
 [[files]]
 file = "mods/weather-settings.pw.toml"
 hash = "c0f1178dedf5f03cbdb3a2bb713368c4079f63487d42ebb8252b4286ac8c76a7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-neoforge.pw.toml"
+hash = "80f8b077b7fc1adfd2f895d79d004e09099b6ed5eaf9e8b0c7cd42759d8c18dd"
 metafile = true
 
 [[files]]
