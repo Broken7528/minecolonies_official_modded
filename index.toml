@@ -2218,6 +2218,11 @@ hash = "9a308f8d3d09130718b68e107a36ae59b71af992ce8e7ae762d677e0a905a726"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
+metafile = true
+
+[[files]]
 file = "mods/leaky.pw.toml"
 hash = "6ac68f7b97f37aa2fa4083f61682c7ea95a3bacb52854c6c4454dfbb0967658a"
 metafile = true
@@ -2290,6 +2295,11 @@ metafile = true
 [[files]]
 file = "mods/respawning-structures-forge-fabric.pw.toml"
 hash = "15af3b7e9ea0510cf6ba6c758a84f9018e9b02b41c3001ba86b10d642994689c"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "2e8064e6ac6f707d6df65ee2738279ec31802ef70514584bb8c8a8ed2010f5f6"
 metafile = true
 
 [[files]]
