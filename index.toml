@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "927453a2c9a96331b1f2a273eff64a8a951f95cec49be09e20b83fd393ee107f"
+
+[[files]]
 file = "blueprints/Cliffs/agriculture/fields/arboretum1.blueprint"
 hash = "9ae1f81d5d90dea10b5cc44861c66c4eaa558880cd155ef3c30c95abe1b02b51"
 
@@ -2008,8 +2012,8 @@ hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "fa68bc1eb6c832087e11a130e589cabeb1a891ea94db8246abd245745556b68d"
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "91c5f289f65efc2e79d2f8592bb5e8fc3784e6b90ebbc0f036c57b4cbbf06c75"
 metafile = true
 
 [[files]]
@@ -2344,7 +2348,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "75356c9ab561648210e7b59326ed1ee83c674d6ffece939ba7045c33c6c2064e"
+hash = "ba0fbc01b797b664021580151aa626f3816bdf4420136cc424761df4d05c9d55"
 metafile = true
 
 [[files]]
