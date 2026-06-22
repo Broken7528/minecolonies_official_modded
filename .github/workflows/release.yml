@@ -1,4 +1,4 @@
-name: Build and Release Modpacks
+name: Build and Release Modpack
 
 on:
   push:
@@ -9,34 +9,9 @@ permissions:
   contents: write
 
 jobs:
-  discover:
-    name: Discover modpacks
-    runs-on: ubuntu-latest
-    outputs:
-      modpacks: ${{ steps.list.outputs.modpacks }}
-    steps:
-      - uses: actions/checkout@v4
-      - name: List modpack folders
-        id: list
-        run: |
-          folders=()
-          for f in */; do
-            f="${f%/}"
-            [ -f "$f/pack.toml" ] && folders+=("$f")
-          done
-          json=$(jq --compact-output --null-input '$ARGS.positional' --args -- "${folders[@]}")
-          echo "modpacks=$json" >>"$GITHUB_OUTPUT"
-          echo "::notice::Detected modpacks: $json"
-
   build:
-    name: Build ${{ matrix.modpack }}
-    needs: discover
-    if: needs.discover.outputs.modpacks != '[]'
+    name: Build modpack
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        modpack: ${{ fromJson(needs.discover.outputs.modpacks) }}
     steps:
       - uses: actions/checkout@v4
 
@@ -44,112 +19,105 @@ jobs:
         with:
           go-version: stable
 
-      - uses: actions/setup-java@v4
-        with:
-          distribution: temurin
-          java-version: '17'
-
       - name: Install packwiz
         run: go install github.com/packwiz/packwiz@latest
 
       - name: Read pack metadata
         id: pack
-        working-directory: ${{ matrix.modpack }}
         run: |
+          set -euo pipefail
           NAME=$(awk -F' *= *' '/^name *=/ {gsub(/"/, "", $2); print $2; exit}' pack.toml)
           VERSION=$(awk -F' *= *' '/^version *=/ {gsub(/"/, "", $2); print $2; exit}' pack.toml)
           MC=$(awk -F' *= *' '/^minecraft *=/ {gsub(/"/, "", $2); print $2; exit}' pack.toml)
-          FABRIC=$(awk -F' *= *' '/^fabric *=/ {gsub(/"/, "", $2); print $2; exit}' pack.toml)
+          NEOFORGE=$(awk -F' *= *' '/^neoforge *=/ {gsub(/"/, "", $2); print $2; exit}' pack.toml)
           BASE="${NAME}-${VERSION}"
-          # Per-pack tag prefix avoids collisions across packs in the matrix.
-          TAG="${NAME}/v${VERSION}-${GITHUB_RUN_NUMBER}"
+          TAG="v${VERSION}-${GITHUB_RUN_NUMBER}"
           {
             echo "name=${NAME}"
             echo "version=${VERSION}"
             echo "mc=${MC}"
-            echo "fabric=${FABRIC}"
+            echo "neoforge=${NEOFORGE}"
             echo "tag=${TAG}"
             echo "base=${BASE}"
             echo "mrpack=${BASE}-client-modrinth.mrpack"
             echo "cfzip=${BASE}-client-curseforge.zip"
             echo "server=${BASE}-server.zip"
           } >>"$GITHUB_OUTPUT"
+          echo "::notice::Building ${NAME} ${VERSION} (MC ${MC}, NeoForge ${NEOFORGE})"
 
       - name: Refresh packwiz index
-        working-directory: ${{ matrix.modpack }}
         run: packwiz refresh
 
       # ---------- CLIENT BUILDS ----------
 
       - name: Export client (Modrinth .mrpack)
-        working-directory: ${{ matrix.modpack }}
         run: packwiz modrinth export -o "${{ steps.pack.outputs.mrpack }}"
 
       - name: Export client (CurseForge .zip)
         # CF launchers (PolyMC/MultiMC) reject manifests with an empty `files` array,
         # which is what packwiz produces when no mod has CurseForge metadata. In that
         # case the CF zip is just a worse .mrpack (all jars in overrides/), so drop it.
-        working-directory: ${{ matrix.modpack }}
         run: |
           set -euo pipefail
           packwiz curseforge export -o "${{ steps.pack.outputs.cfzip }}"
           FILE_COUNT=$(unzip -p "${{ steps.pack.outputs.cfzip }}" manifest.json \
             | python3 -c "import json,sys; print(len(json.load(sys.stdin).get('files', [])))")
           if [ "$FILE_COUNT" = "0" ]; then
-            echo "::notice::No CurseForge-sourced mods in ${{ matrix.modpack }} — skipping CF artifact."
+            echo "::notice::No CurseForge-sourced mods — skipping CF artifact."
             rm "${{ steps.pack.outputs.cfzip }}"
           else
             echo "CF zip contains $FILE_COUNT CurseForge mod entries."
           fi
 
-      # ---------- SHARED SERVER SETUP ----------
-
-      - name: Download Fabric server launcher
-        working-directory: ${{ matrix.modpack }}
-        env:
-          MC: ${{ steps.pack.outputs.mc }}
-          FABRIC: ${{ steps.pack.outputs.fabric }}
-        run: |
-          set -euo pipefail
-          FABRIC_INSTALLER_VERSION=$(curl -fsSL https://meta.fabricmc.net/v2/versions/installer \
-            | python3 -c "import json,sys; print(next(v['version'] for v in json.load(sys.stdin) if v.get('stable')))")
-          curl -fsSL -o fabric-server-launch.jar \
-            "https://meta.fabricmc.net/v2/versions/loader/${MC}/${FABRIC}/${FABRIC_INSTALLER_VERSION}/server/jar"
+      # ---------- SERVER (bootstrap: nothing bundled, NeoForge + mods fetched on launch) ----------
 
       - name: Download packwiz-installer-bootstrap
-        working-directory: ${{ matrix.modpack }}
         run: |
           set -euo pipefail
           BOOTSTRAP_VERSION="0.0.3"
           curl -fsSL -o packwiz-installer-bootstrap.jar \
             "https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v${BOOTSTRAP_VERSION}/packwiz-installer-bootstrap.jar"
 
-      # ---------- SERVER (bootstrap: no jars bundled, syncs from this repo on launch) ----------
-
       - name: Build server zip
-        working-directory: ${{ matrix.modpack }}
         env:
           OUT: ${{ steps.pack.outputs.server }}
-          PACK_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.sha }}/${{ matrix.modpack }}/pack.toml
+          MC: ${{ steps.pack.outputs.mc }}
+          NEOFORGE: ${{ steps.pack.outputs.neoforge }}
+          PACK_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.sha }}/pack.toml
         run: |
           set -euo pipefail
           mkdir -p server
-          cp fabric-server-launch.jar server/
           cp packwiz-installer-bootstrap.jar server/
+
+          NEOFORGE_INSTALLER_URL="https://maven.neoforged.net/releases/net/neoforged/neoforge/${NEOFORGE}/neoforge-${NEOFORGE}-installer.jar"
 
           cat > server/start.sh <<EOF
           #!/usr/bin/env bash
           set -e
+          # 1. Install the NeoForge server on first launch (creates run.sh + libraries/).
+          if [ ! -f run.sh ]; then
+            echo "Installing NeoForge ${NEOFORGE} server..."
+            curl -fsSL -o neoforge-installer.jar "${NEOFORGE_INSTALLER_URL}"
+            java -jar neoforge-installer.jar --installServer
+          fi
+          # 2. Sync mods + configs from the pack.
           java -jar packwiz-installer-bootstrap.jar -g -s server "${PACK_URL}"
-          java -Xmx4G -Xms2G -jar fabric-server-launch.jar nogui
+          # 3. Launch.
+          ./run.sh nogui
           EOF
           chmod +x server/start.sh
 
           cat > server/start.bat <<EOF
           @echo off
+          if not exist run.bat (
+            echo Installing NeoForge ${NEOFORGE} server...
+            curl -fsSL -o neoforge-installer.jar "${NEOFORGE_INSTALLER_URL}"
+            java -jar neoforge-installer.jar --installServer
+            if errorlevel 1 goto :end
+          )
           java -jar packwiz-installer-bootstrap.jar -g -s server "${PACK_URL}"
           if errorlevel 1 goto :end
-          java -Xmx4G -Xms2G -jar fabric-server-launch.jar nogui
+          call run.bat nogui
           :end
           pause
           EOF
@@ -162,9 +130,12 @@ jobs:
           cat > server/README.txt <<EOF
           Server for ${{ steps.pack.outputs.name }} ${{ steps.pack.outputs.version }}
 
+          Requirements: Java 21.
+
           On launch, start.sh / start.bat will:
-            1. Sync mods + configs from ${PACK_URL}
-            2. Launch the Fabric server
+            1. Install NeoForge ${NEOFORGE} (first run only)
+            2. Sync mods + configs from ${PACK_URL}
+            3. Launch the NeoForge server
 
           Set eula=true in eula.txt before running.
           EOF
@@ -182,7 +153,7 @@ jobs:
             Automated build of **${{ steps.pack.outputs.name }}** from commit ${{ github.sha }}.
 
             - Minecraft: ${{ steps.pack.outputs.mc }}
-            - Fabric loader: ${{ steps.pack.outputs.fabric }}
+            - NeoForge: ${{ steps.pack.outputs.neoforge }}
 
             **Pick your download:**
 
@@ -194,10 +165,10 @@ jobs:
             |---|---|---|
             | `*-client-modrinth.mrpack` | Modrinth App, Prism, ATLauncher, MultiMC | Recommended client format |
             | `*-client-curseforge.zip` | CurseForge / Overwolf launcher | Only present if pack has CF-hosted mods |
-            | `*-server.zip` | Self-hosted server | `start.sh` / `start.bat` syncs mods on each launch |
+            | `*-server.zip` | Self-hosted server | `start.sh` / `start.bat` installs NeoForge + syncs mods on first launch |
 
-            Servers: set `eula=true` in `eula.txt` before running `start.sh` / `start.bat`.
+            Servers: requires Java 21. Set `eula=true` in `eula.txt` before running `start.sh` / `start.bat`.
           files: |
-            ${{ matrix.modpack }}/${{ steps.pack.outputs.mrpack }}
-            ${{ matrix.modpack }}/${{ steps.pack.outputs.cfzip }}
-            ${{ matrix.modpack }}/${{ steps.pack.outputs.server }}
+            ${{ steps.pack.outputs.mrpack }}
+            ${{ steps.pack.outputs.cfzip }}
+            ${{ steps.pack.outputs.server }}
