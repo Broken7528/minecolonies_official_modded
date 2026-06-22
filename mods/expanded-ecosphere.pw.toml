@@ -1,13 +1,13 @@
 name = "William Wythers' Expanded Ecosphere"
-filename = "expanded_ecosphere-neoforge-3.4.1.1.jar"
+filename = "expanded_ecosphere-neoforge-3.4.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5cb205e0d5a039304e242ad0906816215da7ffeb"
+hash = "5deab6ed7681dc8987893a5e4867177e906d59ca"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5909040
+file-id = 8153427
 project-id = 490686
