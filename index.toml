@@ -2133,6 +2133,16 @@ hash = "732230fce4618b7b3f399e48a9fa632731ebbf4226e39cbcdac06586be15dd5f"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-block-entities-neoforged.pw.toml"
+hash = "ba19e88c2de56b0dbfc1731333e983dfaf0abb900fe36d1893e0cf70077e6ef5"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
+metafile = true
+
+[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "eebef4157b1767818608521fb79969db0318a96d8f75429dfc39f21967cadb2e"
 metafile = true
@@ -2198,6 +2208,11 @@ hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "8e67a96432b89ad64ec00b59666f510ead091dea23632a672ac800c77964e9ae"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
 hash = "1d3b922c0d1a43fa497faf27827bfa9f9f3841dfba51d8684435d58c1141fe93"
 metafile = true
@@ -2234,7 +2249,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
-hash = "dd4dd28e505ef8a6dae0569c92b03732302094e952068db010924fe945a27170"
+hash = "c2f50bb8ee24bef262a725b65295be80566ef207a278f0aa76aeea4bd16c887b"
 metafile = true
 
 [[files]]
